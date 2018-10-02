@@ -1,0 +1,4030 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Vota Inteligente\n"
+"Language: en\n"
+
+#: agenda/forms.py:24 backend_candidate/forms.py:253
+#: votai_general_theme/templates/backend_candidate/add_activity.html:20
+#: votai_general_theme/templates/backend_citizen/add_activity.html:12
+msgid "Fecha"
+msgstr "Date"
+
+#: agenda/forms.py:25 backend_candidate/forms.py:254
+msgid "Link a tu actividad, puede ser al evento en Facebook"
+msgstr "Link to your activity, can be to the event on Facebook"
+
+#: agenda/forms.py:26
+msgid "Título de tu actividad"
+msgstr "Title of your activity"
+
+#: agenda/forms.py:27
+msgid "Cuentanos lo que quieras sobre tu actividad"
+msgstr "Tell us what you want about your activity"
+
+#: agenda/forms.py:28
+msgid "El lugar donde se realizará esta actividad (opcional)"
+msgstr "The place where this activity will be carried out (optional)"
+
+#: agenda/forms.py:29 agenda/models.py:25
+msgid "Cómo te pueden contactar las personas interesadas?"
+msgstr "How can interested people contact you?"
+
+#: agenda/forms.py:30
+msgid "Imagen para promocionar tu actividad"
+msgstr "Image to promote your activity"
+
+#: agenda/models.py:26
+msgid "Aquí puedes escribir un número telefónico, un email o un whatsapp."
+msgstr "Here you can write a phone number, email or whatsapp."
+
+#: agenda/models.py:27
+msgid "Es este evento importante?"
+msgstr "Is this event important?"
+
+#: agenda/models.py:31
+msgid "Una imagen para el evento"
+msgstr "An image for the event"
+
+#: agenda/models.py:32
+msgid "será la imagen que utilicemos en la lista de eventos"
+msgstr "will be the image that we use in the list of events"
+
+#: backend_candidate/forms.py:68
+msgid "Tus comentarios sobre esta pregunta"
+msgstr "Your comments on this question"
+
+#: backend_candidate/forms.py:157 backend_citizen/forms.py:19
+msgid "Imagen de perfil"
+msgstr "Profile Image"
+
+#: backend_candidate/forms.py:159
+msgid "Link del programa"
+msgstr "Program Link"
+
+#: backend_candidate/forms.py:160
+msgid "Link a tus ideas y/o planteamientos que quieras que la ciudadanía conozca. Ej: http://micandidatura.cl/mis-ideas/"
+msgstr "Link to your ideas and / or approaches that you want the citizens to know. Ex: http://micandidatura.cl/mis-ideas/"
+
+#: backend_candidate/forms.py:171
+msgid "Sitio (debe comenzar con http://)"
+msgstr "Site (must start with http: //)"
+
+#: backend_candidate/forms.py:255
+msgid "Descripción de tu actividad"
+msgstr "Description of your activity"
+
+#: backend_candidate/forms.py:256
+msgid "El lugar donde se realizará esta actividad"
+msgstr "The place where this activity will be carried out"
+
+#: backend_candidate/views.py:108
+msgid "Hemos guardado tus respuestas"
+msgstr "We've saved your answers"
+
+#: backend_candidate/views.py:168
+msgid "Hemos actualizado tu perfil"
+msgstr "We updated your profile"
+
+#: backend_citizen/forms.py:22
+msgid "Descripción"
+msgstr "Product Description"
+
+#: backend_citizen/forms.py:27
+msgid "Tu nombre"
+msgstr "Your name"
+
+#: backend_citizen/forms.py:28
+msgid "Tu Apellido"
+msgstr "Your last name"
+
+#: backend_citizen/forms.py:52
+msgid "Nombre de usuario, ej: votante1975, animal-mamifero, joven-idealista"
+msgstr "Username, eg: votante1975, animal-mammal, young-idealist"
+
+#: backend_citizen/forms.py:53
+msgid "Email"
+msgstr "Email"
+
+#: backend_citizen/forms.py:55
+msgid "El nombre de usuario no tiene espacios ni acentos."
+msgstr "The username has no spaces or accents."
+
+#: backend_citizen/forms.py:66 backend_citizen/forms.py:71
+msgid "El nombre de tu organización"
+msgstr "The name of your organization"
+
+#: backend_citizen/forms.py:72
+msgid "Nombre de usuario, ej: amigosdelparque"
+msgstr "User name, eg friends from the park"
+
+#: backend_citizen/forms.py:73
+msgid "Email de la organización"
+msgstr "Email of the organization"
+
+#: backend_citizen/forms.py:79 popular_proposal/forms/forms.py:391
+#: rioxinteiro/templates/_login_tabs.html:23
+#: rioxinteiro/templates/popular_proposal/detail.html:196
+#: rioxinteiro/templates/terms_and_conditions/organizations_register.html:2
+#: votai_general_theme/templates/popular_proposal/detail.html:182
+#: votai_general_theme/templates/popular_proposal/terms_and_conditions.html:2
+#: votai_general_theme/templates/terms_and_conditions/organizations_register.html:2
+msgid "Términos y Condiciones"
+msgstr "Terms and Conditions"
+
+#: backend_citizen/models.py:20
+msgid "Tu imagen de perfil"
+msgstr "Your profile picture"
+
+#: backend_citizen/models.py:21
+msgid "Tu descripción"
+msgstr "Your description"
+
+#: backend_citizen/models.py:28
+msgid "No quiero recibir noticias sobre las propuestas que me gustan"
+msgstr "I do not want to receive news about the proposals I like"
+
+#: elections/forms.py:13 elections/tests/election_tags_based_search_tests.py:56
+msgid "Busca tu comuna"
+msgstr "Find your town"
+
+#: elections/models.py:174
+msgid "Marca esto si quieres que el candidato aparezca como que no ha respondido"
+msgstr "Check this if you want the candidate to appear as if he has not responded"
+
+#: elections/models.py:254
+#: rioxinteiro/templates/organization_profiles/ayuranos.html:23
+#: votai_general_theme/templates/organization_profiles/ayuranos.html:23
+#: votai_general_theme/templates/popular_proposal/ayuranos.html:34
+#: votai_general_theme/templates/popular_proposal/ayuranos.html:71
+#: votai_general_theme/templates/popular_proposal/ayuranos.html:108
+msgid "Candidato"
+msgstr "Candidate"
+
+#: elections/models.py:255
+#: votai_general_theme/templates/backend_staff/per_area_stats.html:21
+msgid "Candidatos"
+msgstr "Candidates"
+
+#: elections/models.py:262
+msgid "Página estáticas por candidato"
+msgstr "Static page by candidate"
+
+#: elections/models.py:263
+msgid "Páginas estáticas por candidato"
+msgstr "Static pages by candidate"
+
+#: elections/models.py:283
+msgid "Pregunta"
+msgstr "Question"
+
+#: elections/models.py:284
+#: votai_general_theme/templates/elections/questions_per_candidate.html:8
+msgid "Preguntas"
+msgstr "Questions"
+
+#: elections/models.py:309
+msgid "Categoría de pregunta"
+msgstr "Question category"
+
+#: elections/models.py:310
+msgid "Categorías de pregunta"
+msgstr "Question categories"
+
+#: elections/models.py:321
+msgid "Puedes usar Markdown. <br/> "
+msgstr "You can use Markdown. <br/>"
+
+#: elections/models.py:323
+msgid "Esta elección debe usar preguntales?"
+msgstr "This choice should use questions?"
+
+#: elections/models.py:324
+msgid "Esta elección debe usar ranking"
+msgstr "This election must use ranking"
+
+#: elections/models.py:325
+msgid "Esta elección debe usar frente a frente"
+msgstr "This choice must use face to face"
+
+#: elections/models.py:326
+msgid "Esta elección debe usar 1/2 naranja"
+msgstr "This choice should use 1/2 orange"
+
+#: elections/models.py:327
+msgid "Esta elección debe usar cuestionario"
+msgstr "This choice should use questionnaire"
+
+#: elections/models.py:329
+msgid "Los candidatos en esta elección pueden comprometerse en todas las elecciones"
+msgstr "Candidates in this election may engage in all elections"
+
+#: elections/models.py:334
+msgid "A qué cargo está postulando?"
+msgstr "What position are you applying for?"
+
+#: elections/models.py:369
+msgid "Mi Elección"
+msgstr "My Choice"
+
+#: elections/models.py:370
+msgid "Mis Elecciones"
+msgstr "My Elections"
+
+#: medianaranja2/urls.py:16
+msgid "^compartir/?$"
+msgstr "share"
+
+#: medianaranja2/urls.py:20
+msgid "^compartir_org/?$"
+msgstr "^ share_org /? $"
+
+#: medianaranja2/urls.py:23
+msgid "^compartir/(?P<identifier>[-\\w]+)/?$"
+msgstr "^ share / (? P <identifier> [- \\ w] +) /? $"
+
+#: medianaranja2/urls.py:26
+msgid "^og_image/(?P<identifier>[-\\w]+).jpg$"
+msgstr "^ og_image / (? P <identifier> [- \\ w] +) .jpg"
+
+#: merepresenta/templates/backend_base.html:26
+#: votai_general_theme/templates/backend_base.html:50
+msgid "Menú"
+msgstr "Menu"
+
+#: merepresenta/templates/candidatos/login.html:10
+#: votai_general_theme/templates/_social_login_buttons.html:6
+msgid "Entra con Facebook"
+msgstr "Sign in with Facebook"
+
+#: merepresenta/templates/merepresenta/perguntas.html:44
+#: merepresenta/templates/merepresenta/questions.html:33
+#: votai_general_theme/templates/mails/perguntas.html:44
+#: votai_general_theme/templates/medianaranja2/paso_default.html:24
+msgid "first step"
+msgstr "first step"
+
+#: merepresenta/templates/merepresenta/perguntas.html:45
+#: merepresenta/templates/merepresenta/questions.html:34
+#: votai_general_theme/templates/mails/perguntas.html:45
+#: votai_general_theme/templates/medianaranja2/paso_1_preguntas_y_respuestas.html:22
+#: votai_general_theme/templates/medianaranja2/paso_2_proposals_list.html:35
+#: votai_general_theme/templates/medianaranja2/paso_default.html:25
+msgid "prev step"
+msgstr "prev step"
+
+#: merepresenta/templates/merepresenta/perguntas.html:47
+#: merepresenta/templates/merepresenta/questions.html:36
+#: votai_general_theme/templates/mails/perguntas.html:47
+msgid "Encontrar candidaturas"
+msgstr "Finding applications"
+
+#: merepresenta/templates/registration/login.html:29
+#: rioxinteiro/templates/_login_tabs.html:32
+#: votai_general_theme/templates/_login_tabs.html:25
+msgid "O regístrate con un usuario y contraseña"
+msgstr "Or register with a username and password"
+
+#: merepresenta/templates/registration/login.html:34
+#: rioxinteiro/templates/_login_tabs.html:44
+#: votai_general_theme/templates/_login_tabs.html:37
+msgid "Ingresa tu usuario y contraseña"
+msgstr "Enter your username and password"
+
+#: organization_profiles/forms.py:8
+msgid "Nombre de tu organización"
+msgstr "Name of your organization"
+
+#: organization_profiles/forms.py:10
+msgid "Organización Organizada"
+msgstr "Organized Organization"
+
+#: organization_profiles/forms.py:11
+msgid "Descripción de la organización"
+msgstr "Description of organization"
+
+#: organization_profiles/forms.py:13
+msgid "Ayúdanos a que te conozcan! En esta sección podrás contarnos sobre tu organización para informar a otros sobre tu labor social."
+msgstr "Help us to get to know you! In this section you can tell us about your organization to inform others about your social work."
+
+#: organization_profiles/forms.py:14
+msgid "Web de la organización"
+msgstr "Web of the organization"
+
+#: organization_profiles/forms.py:16
+msgid "https://miorganizacion.org"
+msgstr "https://miorganizacion.org"
+
+#: organization_profiles/forms.py:17
+msgid "FanPage de la organización"
+msgstr "FanPage of the organization"
+
+#: organization_profiles/forms.py:19
+msgid "https://www.facebook.com/miorganizacion/"
+msgstr "https://www.facebook.com/miorganizacion/"
+
+#: organization_profiles/forms.py:20
+msgid "Twitter de la organización"
+msgstr "Twitter of the organization"
+
+#: organization_profiles/forms.py:22
+msgid "https://www.twitter.com/miorganizacion/"
+msgstr "https://www.twitter.com/miorganizacion/"
+
+#: organization_profiles/forms.py:23
+msgid "Instagram de la organización"
+msgstr "Instagram of the organization"
+
+#: organization_profiles/forms.py:25
+msgid "https://www.instagram.com/miorganizacion/"
+msgstr "https://www.instagram.com/mjorganizacion/"
+
+#: organization_profiles/forms.py:27 organization_profiles/models.py:71
+msgid "Color primario"
+msgstr "Primary color"
+
+#: organization_profiles/forms.py:30
+msgid "Color del texto"
+msgstr "Text color"
+
+#: organization_profiles/models.py:46
+#: votai_general_theme/templates/backend_organization/update_my_profile.html:16
+msgid "El logo de tu organización"
+msgstr "Your organization's logo"
+
+#: organization_profiles/models.py:47
+msgid "perrito"
+msgstr "puppy"
+
+#: organization_profiles/models.py:54
+msgid "Imagen de fondo"
+msgstr "Background image"
+
+#: organization_profiles/models.py:56
+msgid "Título de tu organización"
+msgstr "Title of your organization"
+
+#: organization_profiles/models.py:59
+msgid "Bajada"
+msgstr "Down"
+
+#: organization_profiles/models.py:74
+msgid "Color secundario"
+msgstr "Secondary color"
+
+#: organization_profiles/models.py:186 popular_proposal/forms/form_texts.py:101
+msgid "Título"
+msgstr "Title"
+
+#: popular_proposal/filters.py:23
+msgid "Qué buscas?"
+msgstr "What are you looking for"
+
+#: popular_proposal/filters.py:25
+msgid "Ordenar por"
+msgstr "Order by"
+
+#: popular_proposal/filters.py:26
+msgid "Por apoyos"
+msgstr "For supports"
+
+#: popular_proposal/filters.py:27
+msgid "Últimas primero"
+msgstr "Latest first"
+
+#: popular_proposal/filters.py:28
+msgid "De organizaciones primero"
+msgstr "First Organizations"
+
+#: popular_proposal/filters.py:29
+msgid "Encuentros locales primero"
+msgstr "Local meetings first"
+
+#: popular_proposal/filters.py:45 popular_proposal/filters.py:125
+msgid "Selecciona"
+msgstr "Select"
+
+#: popular_proposal/filters.py:47 popular_proposal/forms/form_texts.py:106
+msgid "Clasificación"
+msgstr "Classification"
+
+#: popular_proposal/filters.py:120 popular_proposal/filters.py:126
+msgid "Comuna donde fue generada"
+msgstr "Commune where it was generated"
+
+#: popular_proposal/forms/form_texts.py:8
+msgid "Selecciona cuándo"
+msgstr "Select when"
+
+#: popular_proposal/forms/form_texts.py:9
+#: popular_proposal/forms/form_texts.py:98
+msgid "1 año"
+msgstr "1 year"
+
+#: popular_proposal/forms/form_texts.py:10
+msgid "2 años"
+msgstr "2 years"
+
+#: popular_proposal/forms/form_texts.py:11
+msgid "3 años"
+msgstr "3 years"
+
+#: popular_proposal/forms/form_texts.py:12
+msgid "4 años"
+msgstr "4 years"
+
+#: popular_proposal/forms/form_texts.py:15
+#: popular_proposal/forms/form_texts.py:105
+#: rioxinteiro/proposals_categories.py:4
+msgid "Selecciona una categoría"
+msgstr "Select a category"
+
+#: popular_proposal/forms/form_texts.py:16
+msgid "Asistencia y protección social"
+msgstr "Assistance and social protection"
+
+#: popular_proposal/forms/form_texts.py:17
+msgid "Ciencias"
+msgstr "Sciences"
+
+#: popular_proposal/forms/form_texts.py:18
+msgid "Cultura"
+msgstr "Culture"
+
+#: popular_proposal/forms/form_texts.py:19
+msgid "Democracia"
+msgstr "Democracy"
+
+#: popular_proposal/forms/form_texts.py:20
+msgid "Deporte"
+msgstr "Sports"
+
+#: popular_proposal/forms/form_texts.py:21
+msgid "Derechos Humanos"
+msgstr "Human rights"
+
+#: popular_proposal/forms/form_texts.py:22
+msgid "Derechos Sociales"
+msgstr "Social Rights"
+
+#: popular_proposal/forms/form_texts.py:23
+msgid "Descentralización"
+msgstr "Decentralization"
+
+#: popular_proposal/forms/form_texts.py:24
+msgid "Desastres Naturales"
+msgstr "Natural Disasters"
+
+#: popular_proposal/forms/form_texts.py:25
+msgid "Economía"
+msgstr "Economy"
+
+#: popular_proposal/forms/form_texts.py:26
+msgid "Educación"
+msgstr "Education"
+
+#: popular_proposal/forms/form_texts.py:27
+msgid "Empleo"
+msgstr "The"
+
+#: popular_proposal/forms/form_texts.py:28
+msgid "Emprendimiento"
+msgstr "Business"
+
+#: popular_proposal/forms/form_texts.py:29
+msgid "Energía"
+msgstr "Energy"
+
+#: popular_proposal/forms/form_texts.py:30
+msgid "Equidad y género"
+msgstr "Equity and gender"
+
+#: popular_proposal/forms/form_texts.py:31
+msgid "Inclusión"
+msgstr "Inclusion"
+
+#: popular_proposal/forms/form_texts.py:32
+msgid "Instituciones Públicas"
+msgstr "Public Institutions"
+
+#: popular_proposal/forms/form_texts.py:33
+msgid "Infancia y juventud"
+msgstr "Children and youth"
+
+#: popular_proposal/forms/form_texts.py:34
+msgid "Justicia"
+msgstr "Justice"
+
+#: popular_proposal/forms/form_texts.py:35
+#: popular_proposal/forms/form_texts.py:107
+msgid "Medio ambiente"
+msgstr "The Environment"
+
+#: popular_proposal/forms/form_texts.py:36
+msgid "Medios de comunicación"
+msgstr "Means of Communication"
+
+#: popular_proposal/forms/form_texts.py:37
+msgid "Migración"
+msgstr "Migration"
+
+#: popular_proposal/forms/form_texts.py:38
+msgid "Minería"
+msgstr "Mining"
+
+#: popular_proposal/forms/form_texts.py:39
+msgid "Ocio"
+msgstr "Idleness"
+
+#: popular_proposal/forms/form_texts.py:40
+msgid "Pensiones"
+msgstr "Bed And Breakfast"
+
+#: popular_proposal/forms/form_texts.py:41
+msgid "Participación"
+msgstr "Participation"
+
+#: popular_proposal/forms/form_texts.py:42
+msgid "Previsión"
+msgstr "Forecast"
+
+#: popular_proposal/forms/form_texts.py:43
+msgid "Probidad"
+msgstr "Probity"
+
+#: popular_proposal/forms/form_texts.py:44
+msgid "Protección social"
+msgstr "Social protection"
+
+#: popular_proposal/forms/form_texts.py:45
+msgid "Pueblos originarios"
+msgstr "Indigenous peoples"
+
+#: popular_proposal/forms/form_texts.py:46
+msgid "Recursos naturales"
+msgstr "Natural Resources"
+
+#: popular_proposal/forms/form_texts.py:47
+msgid "Salud"
+msgstr "Home"
+
+#: popular_proposal/forms/form_texts.py:48
+msgid "Seguridad"
+msgstr "Security"
+
+#: popular_proposal/forms/form_texts.py:49
+msgid "Sustentabilidad"
+msgstr "Sustainability"
+
+#: popular_proposal/forms/form_texts.py:50
+msgid "Adulto mayor"
+msgstr "Older adult"
+
+#: popular_proposal/forms/form_texts.py:51
+msgid "Protección animal"
+msgstr "Animal protection"
+
+#: popular_proposal/forms/form_texts.py:52
+msgid "Trabajo"
+msgstr "Work"
+
+#: popular_proposal/forms/form_texts.py:53
+msgid "Transparencia"
+msgstr "Transparency"
+
+#: popular_proposal/forms/form_texts.py:54
+msgid "Transporte"
+msgstr "Transport"
+
+#: popular_proposal/forms/form_texts.py:55
+msgid "Urbanismo y Espacios públicos"
+msgstr "Urbanism and Public Spaces"
+
+#: popular_proposal/forms/form_texts.py:73
+msgid "El problema que se quiere solucionar es"
+msgstr "The problem you want to solve is"
+
+#: popular_proposal/forms/form_texts.py:74 popular_proposal/forms/forms.py:55
+msgid "¿Cuál es el problema que quieres solucionar?"
+msgstr "What is the problem you want to solve?"
+
+#: popular_proposal/forms/form_texts.py:75
+msgid "Contaminación en la ciudad"
+msgstr "Pollution in the city"
+
+#: popular_proposal/forms/form_texts.py:76
+msgid "Escribe el problema que quieres solucionar con tu propuesta."
+msgstr "Write the problem you want to solve with your proposal."
+
+#: popular_proposal/forms/form_texts.py:78
+msgid "La causa de este problema es"
+msgstr "The cause of this problem is"
+
+#: popular_proposal/forms/form_texts.py:79
+#: popular_proposal/forms/form_texts.py:83
+msgid "Cuáles son las causas de este problema?"
+msgstr "What are the causes of this problem?"
+
+#: popular_proposal/forms/form_texts.py:80
+msgid "Escribe aquí la causa de tu problema que quieres abordar. Recuerda solo escribir una."
+msgstr "Write the cause of your problem here that you want to address. Just remember to write one."
+
+#: popular_proposal/forms/form_texts.py:82
+msgid "Si yo fuera un candidato electo, mi primera medida sería..."
+msgstr "If I were an elected candidate, my first step would be ..."
+
+#: popular_proposal/forms/form_texts.py:84
+msgid "Crear una ley para regular el uso de bolsas plásticas"
+msgstr "Create a law to regulate the use of plastic bags"
+
+#: popular_proposal/forms/form_texts.py:85
+msgid "Escribe la propuesta como si fuera tu primera medida como presidenta o presidente. "
+msgstr "Write the proposal as if it were your first step as president or president."
+
+#: popular_proposal/forms/form_texts.py:87
+msgid "¿Cuáles posibles soluciones creemos que existen para pasar del problema a la situación ideal?"
+msgstr "What possible solutions do we believe exist to move from the problem to the ideal situation?"
+
+#: popular_proposal/forms/form_texts.py:88
+msgid "¿Cual sería la situación ideal?"
+msgstr "What would be the ideal situation?"
+
+#: popular_proposal/forms/form_texts.py:90
+msgid "Escribe aquí la situación ideal a la que quieres llegar."
+msgstr "Write here the ideal situation that you want to reach."
+
+#: popular_proposal/forms/form_texts.py:92
+msgid "La propuesta para solucionar este problema es"
+msgstr "The proposal to solve this problem is"
+
+#: popular_proposal/forms/form_texts.py:93
+msgid "¿Cuál sería la solución?"
+msgstr "What would be the solution?"
+
+#: popular_proposal/forms/form_texts.py:94
+msgid "Se puede regular el uso de bolsas plásticas en los supermercados a solo tres por persona, las otras bolsas que se usen deben ser reutilizables."
+msgstr "You can regulate the use of plastic bags in supermarkets to only three per person, the other bags that are used must be reusable."
+
+#: popular_proposal/forms/form_texts.py:95
+msgid "Escribe aquí la solucion para el problema que definiste."
+msgstr "Write here the solution to the problem you defined."
+
+#: popular_proposal/forms/form_texts.py:96
+msgid "Tiempo en el cual se puede llevar a cabo la propuesta"
+msgstr "Time at which the proposal can be carried out"
+
+#: popular_proposal/forms/form_texts.py:97
+msgid "¿Cuándo debería estar esto listo?"
+msgstr "When should this be ready?"
+
+#: popular_proposal/forms/form_texts.py:100
+msgid "Colócale título"
+msgstr "Put the title"
+
+#: popular_proposal/forms/form_texts.py:103
+msgid "Título de la propuesta"
+msgstr "Title of proposal"
+
+#: popular_proposal/forms/form_texts.py:110
+msgid "¿Esta propuesta es producto de un encuentro local?"
+msgstr "Is this proposal the result of a local meeting?"
+
+#: popular_proposal/forms/form_texts.py:111
+#: popular_proposal/forms/form_texts.py:116
+msgid "¿Es un encuentro local?"
+msgstr "Is it a local meeting?"
+
+#: popular_proposal/forms/form_texts.py:115 popular_proposal/forms/forms.py:202
+msgid "¿En qué comuna se generó esta propuesta?"
+msgstr "In what commune did this proposal come about?"
+
+#: popular_proposal/forms/form_texts.py:117 popular_proposal/forms/forms.py:209
+msgid "Si eres una ONG de vocación nacional, esta opción no aplica"
+msgstr "If you are a national NGO, this option does not apply"
+
+#: popular_proposal/forms/form_texts.py:120
+#: votai_general_theme/templates/login/group_register.html:19
+#: votai_general_theme/templates/popular_proposal/wizard/paso5.html:64
+msgid "Términos y condiciones"
+msgstr "Terms and Conditions"
+
+#: popular_proposal/forms/form_texts.py:125
+msgid "Esta propuesta es de prueba"
+msgstr "This proposal is proof"
+
+#: popular_proposal/forms/form_texts.py:127
+msgid "Sólo la podrás ver tu y nosotros podremos borrarlas periodicamente."
+msgstr "You can only see her and we can erase them periodically."
+
+#: popular_proposal/forms/forms.py:47 popular_proposal/forms/forms.py:106
+msgid "No aplica"
+msgstr "Not Applicable"
+
+#: popular_proposal/forms/forms.py:56
+msgid "Tu propuesta puede ser individual (a nombre tuyo) o colectiva (representando a un grupo de personas que hizo un Encuentro Ciudadano o a una organización). Una propuesta tiene más posibilidades de conseguir apoyos si está respaldada por varias personas. Si quieres saber cómo hacer un Encuentro Ciudadano te recomendamos revisar nuestra Guía de elaboración de propuestas ciudadanas"
+msgstr "Your proposal may be individual (on your behalf) or collective (representing a group of people who made a Citizen Encounter or an organization). A proposal is more likely to get support if it is backed by several people. If you want to know how to do a Citizen Encounter we recommend you to review our Citizen Proposals Development Guide"
+
+#: popular_proposal/forms/forms.py:69
+#: votai_general_theme/templates/popular_proposal/steps/tips_paso2.html:3
+msgid "¿Cuál es la causa de este problema?"
+msgstr "What is the cause of this problem?"
+
+#: popular_proposal/forms/forms.py:80
+#: votai_general_theme/templates/popular_proposal/steps/tips_paso3.html:4
+msgid "¿Qué propuesta puede solucionar este problema?"
+msgstr "What proposal can solve this problem?"
+
+#: popular_proposal/forms/forms.py:99
+msgid "Resumen y título"
+msgstr "Summary and title"
+
+#: popular_proposal/forms/forms.py:110 votita/forms/forms.py:130
+msgid "Debes aceptar nuestros Términos y Condiciones"
+msgstr "You must accept our Terms and Conditions"
+
+#: popular_proposal/forms/forms.py:198
+msgid "Dónde se pueden reunir las personas que están interesadas en esta propuesta?"
+msgstr "Where can people who are interested in this proposal meet?"
+
+#: popular_proposal/forms/forms.py:199
+msgid "Más antecedentes sobre tu propuesta."
+msgstr "More background on your proposal."
+
+#: popular_proposal/forms/forms.py:200
+msgid "¿Tienes alguna imagen para compartir?"
+msgstr "Do you have an image to share?"
+
+#: popular_proposal/forms/forms.py:201 popular_proposal/models.py:201
+msgid "¿Tienes algún documento para complementar tu propuesta?"
+msgstr "Do you have any documents to complement your proposal?"
+
+#: popular_proposal/forms/forms.py:203
+msgid "¿Cómo te puede contactar un candidato?"
+msgstr "How can a candidate contact you?"
+
+#: popular_proposal/forms/forms.py:204
+msgid "¿Esta propuesta se generó en un encuentro local?"
+msgstr "Was this proposal generated in a local meeting?"
+
+#: popular_proposal/forms/forms.py:206
+msgid "URL de un grupo de facebook, o un grupo en whatsapp. Por ejemplo: https://facebook.com/migrupo"
+msgstr "URL of a facebook group, or group in whatsapp. For example: https://facebook.com/migrupo"
+
+#: popular_proposal/forms/forms.py:207
+msgid "Ejemplo: Durante el año 2011, existió una iniciativa de otra comunidad que no llegó a buen puerto."
+msgstr "Example: During the year 2011, there was an initiative of another community that did not reach a good port."
+
+#: popular_proposal/forms/forms.py:208
+msgid "Ejemplo: Tu teléfono o el lugar donde eres ubicable y en qué horario."
+msgstr "Example: Your phone or the place where you are located and at what time."
+
+#: popular_proposal/forms/forms.py:219
+msgid "La ciudadana dijo: %s"
+msgstr "The citizen said:% s"
+
+#: popular_proposal/forms/forms.py:221
+msgid "Ocurrió un problema sacando los datos"
+msgstr "There was a problem removing the data"
+
+#: popular_proposal/forms/forms.py:224
+msgid " <b>Y tus comentarios fueron: %s </b>"
+msgstr " <b> And your comments were:% s </ b>"
+
+#: popular_proposal/forms/forms.py:271
+msgid "Comentarios sobre tu revisón"
+msgstr "Comments on your review"
+
+#: popular_proposal/forms/forms.py:288
+msgid " <b>Creemos que: %s </b>"
+msgstr " <b> We believe that:% s </ b>"
+
+#: popular_proposal/forms/forms.py:387
+msgid "Cuentanos los términos de tu compromiso:"
+msgstr "Tell us the terms of your commitment:"
+
+#: popular_proposal/forms/forms.py:388
+msgid "¿Cómo te imaginas que esta propuesta puede ser concreatada?."
+msgstr "How do you imagine that this proposal can be fulfilled ?."
+
+#: popular_proposal/forms/forms.py:413 popular_proposal/forms/forms.py:415
+msgid "El candidato no pertenece al area"
+msgstr "Candidate does not belong to the area"
+
+#: popular_proposal/models.py:196
+msgid "Antecedentes sobre tu propuesta"
+msgstr "Background on your proposal"
+
+#: popular_proposal/models.py:199
+msgid "¿Cómo te pueden contactar? Esta información es pública."
+msgstr "How can they contact you? This information is public."
+
+#: popular_proposal/models.py:234
+msgid "Propuesta Ciudadana"
+msgstr "Citizen Proposal"
+
+#: popular_proposal/models.py:235
+#: votai_general_theme/templates/popular_proposal/_popular_proposal_explanation.html:14
+#: votai_general_theme/templates/popular_proposal/home.html:7
+#: votai_general_theme/templates/popular_proposal/home.html:11
+msgid "Propuestas Ciudadanas"
+msgstr "Citizen Proposals"
+
+#: popular_proposal/models.py:246
+#: rioxinteiro/templates/popular_proposal/detail.html:37
+#: votai_general_theme/templates/popular_proposal/detail.html:37
+msgid "¡Ingresa a votainteligente.cl y apoya esta propuesta!"
+msgstr "Sign in to votainteligente.cl and support this proposal!"
+
+#: popular_proposal/models.py:304
+msgid "Propuesta N º %(proposal_id)s"
+msgstr "Proposal No.% (proposal_id) s"
+
+#: popular_proposal/models.py:321
+msgid "Una propuesta de %(proposer_name)s"
+msgstr "A proposal of% (proposer_name) s"
+
+#: popular_proposal/models.py:352
+#: rioxinteiro/templates/popular_proposal/detail.html:84
+#: votai_general_theme/templates/popular_proposal/detail.html:84
+msgid "Generada desde un encuentro ciudadano"
+msgstr "Generated from a citizen's meeting"
+
+#: popular_proposal/models.py:403
+msgid "Quieres decirle algo?"
+msgstr "Do you want to tell him something?"
+
+#: popular_proposal/models.py:439
+msgid "Apoyo"
+msgstr "Support"
+
+#: popular_proposal/models.py:440
+#: votai_general_theme/templates/backend_citizen/stats.html:11
+msgid "Apoyos"
+msgstr "Supports"
+
+#: popular_proposal/urls.py:40
+msgid "^crear/?$"
+msgstr "to create"
+
+#: popular_proposal/urls.py:46
+msgid "^ayudanos/(?P<slug>[-\\w]+)/?$"
+msgstr "^ help / (? P <slug> [- \\ w] +) /? $"
+
+#: popular_proposal/urls.py:55
+msgid "^commitment/(?P<candidate_slug>[-\\w]+)/(?P<proposal_slug>[-\\w]+)/?$"
+msgstr "^ commitment / (? P <candidate_slug> [- \\ w] +) / (? P <proposal_slug> [- \\ w] +) /? $"
+
+#: popular_proposal/urls.py:58
+msgid "^commit/(?P<candidate_pk>[-\\w]+)/(?P<proposal_pk>\\d+)/?$"
+msgstr "^ commit / (? P <candidate_pk> [- \\ w] +) / (? P <proposal_pk> \\ d +) /? $"
+
+#: popular_proposal/urls.py:61
+msgid "^not_commit/(?P<candidate_pk>[-\\w]+)/(?P<proposal_pk>\\d+)/?$"
+msgstr "^ not_commit / (? P <candidate_pk> [- \\ w] +) / (? P <proposal_pk> \\ d +) /? $"
+
+#: popular_proposal/urls.py:67
+msgid "^unlike/(?P<pk>\\d+)/?$"
+msgstr "^ unlike / (? P <pk> \\ d +) /? $"
+
+#: popular_proposal/urls.py:70
+msgid "^actualizar/(?P<slug>[-\\w]+)/?$"
+msgstr "^ update / (? P <slug> [- \\ w] +) /? $"
+
+#: popular_proposal/urls.py:76
+msgid "^(?P<pk>[-\\w]+)/gracias/?$"
+msgstr "^ (? P <pk> [- \\ w] +) / thanks /? $"
+
+#: popular_proposal/urls.py:79
+msgid "^(?P<pk>[-\\w]+)/subscribe/?$"
+msgstr "^ (? P <pk> [- \\ w] +) / subscribe /? $"
+
+#: popular_proposal/views/proposal_views.py:282
+msgid "Muchas gracias por tu compromiso, le hemos enviado un mail a los ciudadanos que apoyan esta propuesta así como a aquel que la realizó."
+msgstr "Thank you very much for your commitment, we have sent an email to the citizens who support this proposal as well as the one who made it."
+
+#: popular_proposal/views/proposal_views.py:286
+msgid "Muchas gracias por tu sinceridad. Le hemos enviado un mail a los ciudadanos que apoyan y además a aquel que la realizó."
+msgstr "Thank you very much for your sincerity. We have sent an email to the citizens who support and also the one who made it."
+
+#: preguntales/forms.py:20
+msgid "Nombre"
+msgstr "Name"
+
+#: preguntales/forms.py:21
+#: votai_general_theme/templates/elections/ask_candidate.html:24
+msgid "Correo electrónico"
+msgstr "Email address"
+
+#: preguntales/forms.py:22
+msgid "Asunto"
+msgstr "Subject"
+
+#: preguntales/forms.py:23
+msgid "texto"
+msgstr "text"
+
+#: preguntales/forms.py:24
+msgid "Destinatarios"
+msgstr "Recipients"
+
+#: preguntales/forms.py:27
+msgid "Puedes seleccinar a más de un candidato para dirigir tu pregunta"
+msgstr "You can select more than one candidate to direct your question"
+
+#: preguntales/forms.py:28
+msgid "Identíficate de alguna forma: Estudiante, Obrero, Democrático, Dirigente, etc."
+msgstr "Identify yourself in some way: Student, Worker, Democratic, Leader, etc."
+
+#: preguntales/forms.py:32
+msgid "Debes identificarte de alguna forma."
+msgstr "You must identify yourself in some way."
+
+#: preguntales/models.py:55
+msgid "Mensaje de preguntales"
+msgstr "Message from questions"
+
+#: preguntales/models.py:56
+msgid "Mensajes de preguntales"
+msgstr "Messages from queries"
+
+#: proposal_subscriptions/models.py:22
+msgid "Cada cuanto te notificamos?"
+msgstr "How often do we notify you?"
+
+#: proposal_subscriptions/views.py:22
+msgid "Cada cuanto quieres que te notifiquemos?"
+msgstr "How often do you want us to notify you?"
+
+#: rioxinteiro/templates/_candidate_small.html:19
+#: votai_general_theme/templates/_candidate_small.html:18
+msgid "\n"
+"          %(commitments_count)s compromisos\n"
+"        "
+msgstr "\n"
+"          % (commitments_count) s commitments\n"
+"        "
+
+#: rioxinteiro/templates/_login_tabs.html:13
+#: votai_general_theme/templates/_login_tabs.html:12
+msgid "Individual"
+msgstr "Individual"
+
+#: rioxinteiro/templates/_login_tabs.html:15
+#: votai_general_theme/templates/_login_tabs.html:14
+#: votai_general_theme/templates/backend_staff/index.html:30
+msgid "Organización"
+msgstr "Organization"
+
+#: rioxinteiro/templates/_login_tabs.html:17
+#: votai_general_theme/templates/_login_tabs.html:16
+msgid "¿Tienes cuenta?"
+msgstr "Have an account?"
+
+#: rioxinteiro/templates/_login_tabs.html:37
+#: votai_general_theme/templates/_login_tabs.html:30
+msgid "Registrate como organización"
+msgstr "Register as an organization"
+
+#: rioxinteiro/templates/_navbar.html:26
+msgid "Mobilize"
+msgstr "Mobilize"
+
+#: rioxinteiro/templates/backend_candidate/_suggestions_formset.html:11
+msgid "\n"
+"                <b>Proposta Nº%(id)s</b> - Uma proposta de <strong>%(proposer)s</strong>\n"
+"              "
+msgstr "\n"
+"                <b> Proposal #% s </ b> - A proposal of <strong>% (proposer) s </ strong>\n"
+"              "
+
+#: rioxinteiro/templates/backend_candidate/_suggestions_formset.html:23
+msgid "\n"
+"                  <b>Meus termos de compromisso:</b>(opcional)\n"
+"                "
+msgstr "\n"
+"                  <b> My appointment terms: </ b> (optional)\n"
+"                "
+
+#: rioxinteiro/templates/backend_candidate/_suggestions_formset.html:30
+msgid "\n"
+"                    Eu me comprometo com esta proposta\n"
+"                  "
+msgstr "\n"
+"                    I commit to this proposal.\n"
+"                  "
+
+#: rioxinteiro/templates/backend_candidate/complete_profile.html:15
+#: votai_general_theme/templates/backend_candidate/complete_profile.html:15
+msgid "\n"
+"  Información para el perfil de %(candidate_name)s\n"
+"  "
+msgstr "\n"
+"  Information for the profile of% (candidate_name) s\n"
+"  "
+
+#: rioxinteiro/templates/backend_candidate/complete_profile.html:22
+#: votai_general_theme/templates/backend_candidate/complete_profile.html:22
+msgid "Ir a ver mi perfil"
+msgstr "Go to see my profile"
+
+#: rioxinteiro/templates/backend_candidate/complete_profile.html:47
+#: votai_general_theme/templates/backend_candidate/add_activity.html:32
+#: votai_general_theme/templates/backend_candidate/complete_12_naranja.html:20
+#: votai_general_theme/templates/backend_candidate/complete_profile.html:49
+#: votai_general_theme/templates/backend_citizen/add_activity.html:27
+#: votai_general_theme/templates/backend_citizen/update_subscription.html:17
+#: votai_general_theme/templates/popular_proposal/create.html:37
+#: votai_general_theme/templates/votita/agregar_propuestas_a_encuentro.html:29
+msgid "Enviar"
+msgstr "Submit"
+
+#: rioxinteiro/templates/elections/candidate_detail.html:35
+#: votai_general_theme/templates/elections/candidate_detail.html:35
+msgid "Modificar mi perfil"
+msgstr "Edit my profile"
+
+#: rioxinteiro/templates/elections/candidate_detail.html:129
+#: votai_general_theme/templates/elections/candidate_detail.html:98
+msgid "Reseña Biográfica"
+msgstr "Biography"
+
+#: rioxinteiro/templates/elections/candidate_detail.html:138
+msgid "\n"
+"                %(commitment_count)s compromissos cidadãos\n"
+"              "
+msgstr "\n"
+"                % (commitment_count) s citizen commitments\n"
+"              "
+
+#: rioxinteiro/templates/elections/candidate_detail.html:169
+#: votai_general_theme/templates/elections/candidate_detail.html:139
+msgid "Revisa sus ideas y planteamientos"
+msgstr "Review your ideas and approaches"
+
+#: rioxinteiro/templates/elections/candidate_detail.html:170
+#: votai_general_theme/templates/elections/candidate_detail.html:140
+msgid "aquí"
+msgstr "on here"
+
+#: rioxinteiro/templates/elections/candidate_detail.html:175
+#: votai_general_theme/templates/elections/candidate_detail.html:105
+#: votai_general_theme/templates/elections/candidate_detail.html:145
+msgid "Compromisos Ciudadanos"
+msgstr "Citizen Commitments"
+
+#: rioxinteiro/templates/elections/candidate_detail.html:177
+#: votai_general_theme/templates/elections/candidate_detail.html:147
+msgid "\n"
+"    Acá encontrarás un total de %(proposals_committed)s propuestas a las que %(candidate_name)s se comprometió en VotaInteligente a cumplir dentro del plan de gobierno.\n"
+"  "
+msgstr "\n"
+"    Here you will find a total of% (proposals_committed) s proposals to which% (candidate_name) s committed in VotaInteligente to comply within the government's plan.\n"
+"  "
+
+#: rioxinteiro/templates/elections/candidate_detail.html:183
+#: votai_general_theme/templates/elections/candidate_detail.html:153
+msgid "\n"
+"          %(candidate_name)s aún no te haz comprometido en VotaInteligente!\n"
+"      "
+msgstr "\n"
+"          % (candidate_name) s have not yet committed to Smart Vote!\n"
+"      "
+
+#: rioxinteiro/templates/elections/election_base.html:9
+#: votai_general_theme/templates/elections/election_base.html:9
+#: votai_general_theme/templates/elections/embedded.html:13
+#: votai_general_theme/templates/elections/embedded.html:50
+msgid "Perfiles"
+msgstr "Profiles"
+
+#: rioxinteiro/templates/elections/election_base.html:13
+#: votai_general_theme/templates/elections/election_base.html:13
+msgid "Conoce los candidatos a Senador, Diputado y Presidente para las elecciones de Chile 2017"
+msgstr "Meet the candidates for Senator, Deputy and President for the elections of Chile 2017"
+
+#: rioxinteiro/templates/elections/election_base.html:24
+#: votai_general_theme/templates/elections/election_base.html:24
+msgid "Candidaturas"
+msgstr "Applications"
+
+#: rioxinteiro/templates/elections/election_base.html:28
+#: votai_general_theme/templates/elections/election_base.html:31
+msgid "También te podría interesar:"
+msgstr "You might also be interested in:"
+
+#: rioxinteiro/templates/elections/election_card.html:40
+#: votai_general_theme/templates/elections/election_card.html:46
+msgid "Electa/o"
+msgstr "Elected"
+
+#: rioxinteiro/templates/elections/election_card.html:45
+#: votai_general_theme/templates/elections/election_card.html:51
+msgid "\n"
+"              %(commitments_count)s compromisos\n"
+"            "
+msgstr "\n"
+"              % (commitments_count) s commitments\n"
+"            "
+
+#: rioxinteiro/templates/elections/election_card.html:57
+#: votai_general_theme/templates/elections/election_card.html:63
+msgid "Ayudanos!"
+msgstr "Help us!"
+
+#: rioxinteiro/templates/index.html:45
+#: votai_general_theme/templates/popular_proposal/_lista_propuestas.html:22
+msgid "Te invitamos a filtrar y encontrar propuestas ciudadanas en las siguientes áreas"
+msgstr "We invite you to filter and find citizen proposals in the following areas"
+
+#: rioxinteiro/templates/know_your_candidates.html:10
+#: votai_general_theme/templates/know_your_candidates.html:7
+msgid "Candidatos Chile 2017"
+msgstr "Candidates Chile 2017"
+
+#: rioxinteiro/templates/know_your_candidates.html:11
+#: votai_general_theme/templates/know_your_candidates.html:8
+msgid "Conoce tus congresistas y sus compromisos"
+msgstr "Meet your congressmen and their commitments"
+
+#: rioxinteiro/templates/mails/organization_activation/body.html:5
+msgid "\n"
+"<h3>Registro para RioPorInteiro</h3>\n"
+"<p>\n"
+"Olá, você (ou alguém que diz ser você) tentou registrar uma conta no RioPorInteiro.\n"
+"</p>\n"
+"</p>\n"
+"Se não foi você, por favor, ignore este e-mail e seu endereço será removido de nossos registros.\n"
+"</p>\n"
+"<p>Para ativar sua conta em RioPorInteiro, por favor clique no seguinte link antes de\n"
+"<b>%(expiration_days)s</b> dias:<br/>\n"
+"<a href=\"https://%(sitedomain)s%(activation_key_url)s\">https://%(sitedomain)s%(activation_key_url)s</a>\n"
+"</p>\n"
+"\n"
+""
+msgstr "\n"
+"<h3> Registration for RioPorInteiro </ h3>\n"
+"<p>\n"
+"Hello, you (or someone claiming to be you) tried to register an account at RioPorInteiro.\n"
+"</ p>\n"
+"</ p>\n"
+"If it was not you, please ignore this email and your address will be removed from our records.\n"
+"</ p>\n"
+"<p> To activate your RioPorInteiro account, please click the following link before\n"
+"<b>% (expiration_days) s </ b> days: <br/>\n"
+"<a href=\"https://%(sitedomain)s%(activation_key_url)s\"> https: //% (sitedomain) s% (activation_key_url) s </a>\n"
+"</ p>\n"
+"\n"
+""
+
+#: rioxinteiro/templates/mails/organization_activation/body.txt:5
+msgid "\n"
+"Olá, você (ou alguém que diz ser você) tentou registrar uma conta no RioPorInteiro.\n"
+"Se não foi você, por favor, ignore este e-mail e seu endereço será removido de nossos registros.\n"
+"\n"
+"\n"
+"Para ativar sua conta em RioPorInteiro, por favor clique no seguinte link antes de\n"
+"%(expiration_days)s dias:\n"
+"https://%(sitename)s%(activation_key_url)s\n"
+""
+msgstr "\n"
+"Hello, you (or someone claiming to be you) tried to register an account at RioPorInteiro.\n"
+"If it was not you, please ignore this email and your address will be removed from our records.\n"
+"\n"
+"\n"
+"To activate your RioPorInteiro account, please click the following link before\n"
+"% (expiration_days) s days:\n"
+"https: //% (sitename) s% (activation_key_url) s\n"
+""
+
+#: rioxinteiro/templates/material_ciudadano.html:95
+#: votai_general_theme/templates/material_ciudadano.html:113
+msgid "Manual de formación ciudadana"
+msgstr "Citizen Training Manual"
+
+#: rioxinteiro/templates/material_ciudadano.html:97
+#: votai_general_theme/templates/material_ciudadano.html:115
+msgid "¿Cuál es la diferencia entre el Senado y la Cámara? ¿Qué hace el Gobierno Central? Aquí encontrarás distintos contenidos para crear y enfocar de la mejor manera lo que sueñas para Chile."
+msgstr "What is the difference between the Senate and the House? What does the Central Government do? Here you will find different contents to create and focus in the best way what you dream for Chile."
+
+#: rioxinteiro/templates/material_ciudadano.html:101
+#: votai_general_theme/templates/material_ciudadano.html:105
+#: votai_general_theme/templates/material_ciudadano.html:119
+#: votai_general_theme/templates/material_ciudadano.html:133
+msgid "Descargar"
+msgstr "Download"
+
+#: rioxinteiro/templates/medianaranja2/resultado.html:8
+#: votai_general_theme/templates/medianaranja2/resultado.html:8
+msgid "1/2 Naranja - Resultado"
+msgstr "1/2 Orange - Result"
+
+#: rioxinteiro/templates/medianaranja2/resultado.html:14
+#: votai_general_theme/templates/medianaranja2/resultado.html:14
+msgid "Resultados"
+msgstr "Results"
+
+#: rioxinteiro/templates/medianaranja2/resultado.html:18
+#: votai_general_theme/templates/medianaranja2/resultado.html:18
+msgid "Tus posturas de la media naranja son empujadas día a día por estas organizaciones. Te invitamos a conocerlas y sumarte a las causas que te interesan."
+msgstr "Your positions of the average orange are pushed day by day by these organizations. We invite you to know them and join the causes that interest you."
+
+#: rioxinteiro/templates/medianaranja2/resultado.html:21
+#: votai_general_theme/templates/medianaranja2/resultado.html:21
+msgid "Organizaciones"
+msgstr "Organizations"
+
+#: rioxinteiro/templates/medianaranja2/resultado.html:50
+#: rioxinteiro/templates/medianaranja2/resultado.html:93
+#: votai_general_theme/templates/medianaranja2/resultado.html:49
+#: votai_general_theme/templates/medianaranja2/resultado.html:94
+msgid "Comparte tu 1/2 Naranja"
+msgstr "Share your 1/2 Orange"
+
+#: rioxinteiro/templates/medianaranja2/resultado.html:64
+#: votai_general_theme/templates/medianaranja2/resultado.html:62
+msgid "\n"
+"    Tu media naranja política para %(election_name)s es\n"
+"  "
+msgstr "\n"
+"    Your political orange for% (election_name) s\n"
+"  "
+
+#: rioxinteiro/templates/medianaranja2/resultado.html:103
+#: rioxinteiro/templates/organization_profiles/ayuranos.html:8
+#: rioxinteiro/templates/organization_profiles/index.html:8
+#: votai_general_theme/templates/backend_candidate/help_finding_candidates.html:8
+#: votai_general_theme/templates/medianaranja2/resultado.html:104
+#: votai_general_theme/templates/organization_profiles/ayuranos.html:8
+#: votai_general_theme/templates/organization_profiles/index.html:8
+#: votai_general_theme/templates/popular_proposal/ayuranos.html:8
+msgid "Ayúdanos"
+msgstr "Help us"
+
+#: rioxinteiro/templates/medianaranja2/resultado.html:104
+#: votai_general_theme/templates/medianaranja2/resultado.html:105
+msgid "Acabaste de hacer tu Media Naranja Política y queremos saber cómo te sentiste con ella, ¿nos ayudas contestando cinco preguntas?"
+msgstr "You just finished doing your Half Orange Policy and we want to know how you felt with her, can you help us by answering five questions?"
+
+#: rioxinteiro/templates/medianaranja2/resultado.html:105
+#: votai_general_theme/templates/medianaranja2/resultado.html:106
+msgid "Responder"
+msgstr "Answer"
+
+#: rioxinteiro/templates/medianaranja2/resultado.html:109
+#: votai_general_theme/templates/medianaranja2/resultado.html:110
+msgid "¿CÓMO CALCULAMOS TU MEDIA NARANJA PRESIDENCIAL?"
+msgstr "HOW DO WE CALCULATE YOUR PRESIDENTIAL HALF ORANGE?"
+
+#: rioxinteiro/templates/medianaranja2/resultado.html:110
+#: votai_general_theme/templates/medianaranja2/resultado.html:111
+msgid "En la primera pregunta, te mostramos todos aquellos temas en los que las candidaturas presidenciales muestran posiciones concretas en sus programas o en declaraciones públicas. Una vez que elegiste tus prioridades, en la segunda pregunta te mostramos como opciones las posturas de las candidaturas en esas áreas. En el paso tres, te pedimos que definas tus cinco primeras medidas de gobierno, si fueras presidente o presidenta, que corresponden a las propuestas ciudadanas que hay en Vota Inteligente con las que los candidatos se han comprometido. ¡Usando todos estos resultados calculamos cuál es tu grado de compatibilidad!"
+msgstr "In the first question, we show you all those topics where presidential candidacies show concrete positions in their programs or in public statements. Once you have chosen your priorities, in the second question we show you as options the positions of the candidacies in those areas. In step three, we ask you to define your first five measures of government, if you were president or president, corresponding to the citizen proposals that are in Smart Vote with which the candidates have committed. Using all these results we calculate what your compatibility level is!"
+
+#: rioxinteiro/templates/medianaranja2/resultado.html:113
+#: votai_general_theme/templates/medianaranja2/resultado.html:114
+msgid "Juega de nuevo"
+msgstr "Play again"
+
+#: rioxinteiro/templates/organization_profiles/ayuranos.html:16
+#: votai_general_theme/templates/organization_profiles/ayuranos.html:16
+msgid "¡Pidámosle a las candidaturas que se comprometan con nuestras propuestas!"
+msgstr "Let us ask the candidates to commit to our proposals!"
+
+#: rioxinteiro/templates/organization_profiles/ayuranos.html:17
+#: votai_general_theme/templates/organization_profiles/ayuranos.html:17
+#: votai_general_theme/templates/popular_proposal/ayuranos.html:19
+msgid "Utiliza Ctrl+f (Cmd+f) para buscar tu distrito o tu candidato."
+msgstr "Use Ctrl + f (Cmd + f) to search your district or your candidate."
+
+#: rioxinteiro/templates/organization_profiles/ayuranos.html:22
+#: votai_general_theme/templates/organization_profiles/ayuranos.html:22
+msgid "Twiteale!"
+msgstr "Twiteale!"
+
+#: rioxinteiro/templates/organization_profiles/ayuranos.html:24
+#: votai_general_theme/templates/organization_profiles/ayuranos.html:24
+#: votai_general_theme/templates/popular_proposal/ayuranos.html:35
+#: votai_general_theme/templates/popular_proposal/ayuranos.html:72
+#: votai_general_theme/templates/popular_proposal/ayuranos.html:109
+msgid "Pacto"
+msgstr "Covenant"
+
+#: rioxinteiro/templates/organization_profiles/ayuranos.html:25
+#: votai_general_theme/templates/organization_profiles/ayuranos.html:25
+#: votai_general_theme/templates/popular_proposal/ayuranos.html:36
+#: votai_general_theme/templates/popular_proposal/ayuranos.html:73
+#: votai_general_theme/templates/popular_proposal/ayuranos.html:110
+msgid "Partido"
+msgstr "Broken"
+
+#: rioxinteiro/templates/organization_profiles/detail.html:38
+#: votai_general_theme/templates/organization_profiles/detail.html:38
+msgid "Edita esta página"
+msgstr "Edit this page"
+
+#: rioxinteiro/templates/organization_profiles/detail.html:54
+#: votai_general_theme/templates/organization_profiles/detail.html:54
+msgid "Website"
+msgstr "Web site"
+
+#: rioxinteiro/templates/organization_profiles/detail.html:57
+#: votai_general_theme/templates/organization_profiles/detail.html:57
+msgid "Facebook"
+msgstr "Facebook"
+
+#: rioxinteiro/templates/organization_profiles/detail.html:60
+#: votai_general_theme/templates/organization_profiles/detail.html:60
+msgid "Twitter"
+msgstr "Twitter"
+
+#: rioxinteiro/templates/organization_profiles/detail.html:63
+#: votai_general_theme/templates/organization_profiles/detail.html:63
+msgid "Instagram"
+msgstr "Instagram"
+
+#: rioxinteiro/templates/organization_profiles/detail.html:66
+#: votai_general_theme/templates/organization_profiles/detail.html:66
+msgid "RSS"
+msgstr "RSS Feed"
+
+#: rioxinteiro/templates/organization_profiles/detail.html:76
+#: votai_general_theme/templates/organization_profiles/detail.html:76
+msgid "\n"
+"Ayúdanos a difundir nuestras propuestas entre las candidaturas <a href=\"%(ayuranos)s\" class=\"btn btn-blue\" onclick=\"ga('send','event','ayudanos-org','click')\">aquí</a>\n"
+""
+msgstr "\n"
+"Help us to spread our proposals among the applications <a href = \"% (ayuranos) s\" class = \"btn btn-blue\" onclick = \"ga ('send', 'event', 'ayudanos-org', 'click') \"> here </a>\n"
+""
+
+#: rioxinteiro/templates/organization_profiles/detail.html:86
+#: votai_general_theme/templates/organization_profiles/detail.html:86
+msgid "Proponemos y apoyamos"
+msgstr "We propose and support"
+
+#: rioxinteiro/templates/organization_profiles/detail.html:91
+#: votai_general_theme/templates/organization_profiles/detail.html:91
+msgid "Proponemos"
+msgstr "We propose"
+
+#: rioxinteiro/templates/organization_profiles/detail.html:104
+#: votai_general_theme/templates/organization_profiles/detail.html:104
+msgid "\n"
+"Comienza a generar tus propuestas en el siguiente <a href=\"%(create_proposal_url)s\">enlace</a>\n"
+""
+msgstr "\n"
+"Start generating your proposals on the following <a href=\"%(create_proposal_url)s\"> link </a>\n"
+""
+
+#: rioxinteiro/templates/popular_proposal/_likers_candidatos.html:28
+#: votai_general_theme/templates/popular_proposal/_likers_candidatos.html:29
+msgid "Lee el compromiso"
+msgstr "Read the commitment"
+
+#: rioxinteiro/templates/popular_proposal/detail.html:22
+#: votai_general_theme/templates/backend_candidate/i_have_commited.html:17
+#: votai_general_theme/templates/popular_proposal/detail.html:22
+#: votai_general_theme/templates/popular_proposal/wizard/paso5.html:46
+msgid "Propuesta"
+msgstr "Proposal"
+
+#: rioxinteiro/templates/popular_proposal/detail.html:40
+#: votai_general_theme/templates/popular_proposal/detail.html:40
+msgid "%(proposer_twitter)s propone %(proposal)s"
+msgstr "% (proposer_twitter) s proposes% (proposal) s"
+
+#: rioxinteiro/templates/popular_proposal/detail.html:54
+#: votai_general_theme/templates/popular_proposal/commitment/detail_yes.html:34
+#: votai_general_theme/templates/popular_proposal/detail.html:54
+msgid "Inicio"
+msgstr "Start"
+
+#: rioxinteiro/templates/popular_proposal/detail.html:55
+#: votai_general_theme/templates/popular_proposal/commitment/commit_yes.html:15
+#: votai_general_theme/templates/popular_proposal/commitment/detail_yes.html:35
+#: votai_general_theme/templates/popular_proposal/detail.html:55
+msgid "Propuestas"
+msgstr "Suggestions"
+
+#: rioxinteiro/templates/popular_proposal/detail.html:67
+#: votai_general_theme/templates/popular_proposal/detail.html:67
+msgid "Esta es tu propuesta %(user)s, ¿quieres <a href=\"%(update_proposal_url)s\">añadir antecedentes</a> a esta propuesta?"
+msgstr "This is your proposal% (user) s, do you want to <a href=\"%(update_proposal_url)s\"> add background </a> to this proposal?"
+
+#: rioxinteiro/templates/popular_proposal/detail.html:79
+#: votai_general_theme/templates/popular_proposal/detail.html:79
+msgid "\n"
+"          Propuesta nº%(proposal_id)s\n"
+"        "
+msgstr "\n"
+"          Proposal #% (proposal_id) s\n"
+"        "
+
+#: rioxinteiro/templates/popular_proposal/detail.html:90
+#: votai_general_theme/templates/popular_proposal/detail.html:90
+msgid "\n"
+"            Esta es una propuesta de\n"
+"          "
+msgstr "\n"
+"            This is a proposal of\n"
+"          "
+
+#: rioxinteiro/templates/popular_proposal/detail.html:142
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:29
+#: votai_general_theme/templates/popular_proposal/detail.html:142
+msgid "Antecedentes"
+msgstr "Background"
+
+#: rioxinteiro/templates/popular_proposal/detail.html:147
+#: votai_general_theme/templates/popular_proposal/detail.html:147
+msgid "Documentos"
+msgstr "Documents"
+
+#: rioxinteiro/templates/popular_proposal/detail.html:149
+#: votai_general_theme/templates/popular_proposal/detail.html:149
+msgid "Documento"
+msgstr "Document"
+
+#: rioxinteiro/templates/popular_proposal/detail.html:176
+#: votai_general_theme/templates/popular_proposal/detail.html:162
+msgid "Si te gustó ¡apóyala y compártela! Así todos/as tendremos voz en las elecciones de este año."
+msgstr "If you liked it, support it and share it! So we will all have a voice in this year's elections."
+
+#: rioxinteiro/templates/popular_proposal/detail.html:178
+#: votai_general_theme/templates/popular_proposal/detail.html:164
+msgid "\n"
+"          Si por el contrario, encuentras que esta propuesta viola los \"<a href=\"#\" data-toggle=\"modal\" data-target=\"#terms_and_conditions\">Términos y Condiciones</a>\" para la creación de una propuesta, ayúdanos <a class=\"reportar_propuesta\">reportando</a> esta propuesta.\n"
+"          "
+msgstr "\n"
+"          If, on the contrary, you find that this proposal violates the \"<a href=\"#\" data-toggle=\"modal\" data-target=\"#terms_and_conditions\"> Terms and Conditions </a> </a> for the creation of a proposal, help us <a class=\"reportar_propuesta\"> reporting </a> this proposal.\n"
+"          "
+
+#: rioxinteiro/templates/popular_proposal/detail.html:186
+#: rioxinteiro/templates/popular_proposal/detail.html:236
+#: votai_general_theme/templates/popular_proposal/detail.html:172
+#: votai_general_theme/templates/popular_proposal/detail.html:222
+msgid "Ayúdanos a difundir esta propuesta entre las candidaturas"
+msgstr "Help us spread this proposal among the candidates"
+
+#: rioxinteiro/templates/popular_proposal/detail.html:202
+#: votai_general_theme/templates/agenda/_activity_card.html:56
+#: votai_general_theme/templates/popular_proposal/detail.html:188
+msgid "Cerrar"
+msgstr "Close"
+
+#: rioxinteiro/templates/popular_proposal/detail.html:216
+#: votai_general_theme/templates/popular_proposal/detail.html:202
+msgid "Esta propuesta tiene"
+msgstr "This proposal has"
+
+#: rioxinteiro/templates/popular_proposal/detail.html:218
+#: votai_general_theme/templates/popular_proposal/detail.html:204
+msgid "\n"
+"            <span id='likers_count_%(proposal_id)s' class=\"conteo\">%(likers_count)s</span> apoyo(s) ciudadano(s)</p>\n"
+"          "
+msgstr "\n"
+"            <span id = 'likers_count _% (proposal_id) s' class = \"count\">% (likers_count) s </ span> citizen support </ p>\n"
+"          "
+
+#: rioxinteiro/templates/popular_proposal/detail.html:222
+msgid "\n"
+"        <span id='likers_count_%(proposal_id)s' class=\"conteo\">%(commitments_count)s</span> candidatura(s) comprometida(s)\n"
+"      "
+msgstr "\n"
+"        <span id = 'likers_count _% (proposal_id) s' class = \"count\">% (commitments_count) s </ span> compromised application (s)\n"
+"      "
+
+#: rioxinteiro/templates/popular_proposal/detail.html:227
+#: votai_general_theme/templates/popular_proposal/detail.html:213
+msgid "Apoya esta propuesta"
+msgstr "Supports this proposal"
+
+#: rioxinteiro/templates/popular_proposal/detail.html:232
+#: votai_general_theme/templates/popular_proposal/detail.html:218
+msgid "Comparte esta propuesta"
+msgstr "Share this proposal"
+
+#: rioxinteiro/templates/popular_proposal/detail.html:242
+#: votai_general_theme/templates/popular_proposal/detail.html:228
+msgid "Organizaciones que apoyan esta propuesta"
+msgstr "Organizations supporting this proposal"
+
+#: rioxinteiro/templates/popular_proposal/detail.html:289
+#: votai_general_theme/templates/popular_proposal/_likers.html:70
+#: votai_general_theme/templates/popular_proposal/detail.html:274
+msgid "Apoya una propuesta"
+msgstr "Supports a proposal"
+
+#: rioxinteiro/templates/popular_proposal/wizard/form_step_base.html:12
+#: votai_general_theme/templates/popular_proposal/wizard/done.html:12
+#: votai_general_theme/templates/popular_proposal/wizard/form_step_base.html:12
+#: votai_general_theme/templates/popular_proposal/wizard/paso5.html:12
+msgid "Creación de Propuesta"
+msgstr "Creation of Proposal"
+
+#: rioxinteiro/templates/popular_proposal/wizard/form_step_base.html:12
+#: votai_general_theme/templates/popular_proposal/wizard/form_step_base.html:12
+#: votai_general_theme/templates/popular_proposal/wizard/paso5.html:12
+msgid "Paso %(step_number)s"
+msgstr "Step% (step_number) s"
+
+#: rioxinteiro/templates/popular_proposal/wizard/form_step_base.html:21
+#: votai_general_theme/templates/popular_proposal/wizard/form_step_base.html:21
+#: votai_general_theme/templates/popular_proposal/wizard/paso5.html:21
+msgid "Paso"
+msgstr "Step"
+
+#: rioxinteiro/templates/popular_proposal/wizard/form_step_base.html:38
+#: votai_general_theme/templates/popular_proposal/wizard/form_step_base.html:38
+#: votai_general_theme/templates/popular_proposal/wizard/paso5.html:28
+msgid "Creando una propuesta"
+msgstr "Creating a proposal"
+
+#: rioxinteiro/templates/popular_proposal/wizard/form_step_base.html:54
+#: votai_general_theme/templates/backend_staff/add_contact_and_send_mail.html:9
+#: votai_general_theme/templates/popular_proposal/wizard/form_step_base.html:54
+#: votai_general_theme/templates/popular_proposal/wizard/paso5.html:79
+#: votai_general_theme/templates/popular_proposal/wizard/select_area.html:45
+msgid "Submit"
+msgstr "Submit"
+
+#: rioxinteiro/templates/popular_proposal/wizard/form_step_base.html:54
+#: votai_general_theme/templates/popular_proposal/wizard/form_step_base.html:54
+#: votai_general_theme/templates/popular_proposal/wizard/paso5.html:79
+msgid "Ir al paso "
+msgstr "Go to step"
+
+#: rioxinteiro/templates/popular_proposal/wizard/manual-herramientas-activismo_link.html:3
+#: votai_general_theme/templates/popular_proposal/wizard/manual-herramientas-activismo_link.html:3
+msgid "Descarga el Manual de herramientas de activismo"
+msgstr "Download the Activism Toolkit"
+
+#: rioxinteiro/templates/terms_and_conditions/organizations_register.html:4
+#: votai_general_theme/templates/popular_proposal/terms_and_conditions.html:4
+#: votai_general_theme/templates/terms_and_conditions/organizations_register.html:4
+msgid "\n"
+"<p>En la Fundación Ciudadano Inteligente creemos en el derecho a ser diferentes. Por esto, las propuestas que inciten al odio o discriminación por razones políticas, sexuales, de credo, género, étnicas o raciales, serán rechazadas inmediatamente.</p>\n"
+"<p>Este es un espacio exclusivo para propuestas ciudadanas. Las candidatas/os pueden subir sus programas y propuestas en sus perfiles.</p>\n"
+"<p>Las propuestas tampoco pueden:</p>\n"
+"<ul style=\"list-style-type:disc\">\n"
+"<li>Promover causas de carácter privado, y no público.</li>\n"
+"<li>Promover acciones que escapen a las facultades del Gobierno o Parlamento.</li>\n"
+"<li>Promover causas particulares y no de interés colectivo.</li>\n"
+"<li>Escaparse de los principios democráticos. En Ciudadano Inteligente creemos que la base de la democracia es la creencia de que todos los ciudadanos deben tener derecho al mismo nivel de incidencia sobre la decisiones de nuestra comunidad.</li>\n"
+"</ul>\n"
+"<p>Nos autorizas para que te notifiquemos cuando:</p>\n"
+"<ul>\n"
+"  <li>Una organización quiera apoyar tu propuesta.</li>\n"
+"  <li>Un candidato se comprometa con tu propuesta.</li>\n"
+"</ul>\n"
+""
+msgstr "\n"
+"<p> At the Fundación Ciudadano Inteligente we believe in the right to be different. Therefore, proposals that incite hatred or discrimination for political, sexual, creed, gender, ethnic or racial reasons will be rejected immediately. </ P>\n"
+"<p> This is an exclusive space for citizen proposals. Candidates can upload their programs and proposals into their profiles. </ P>\n"
+"<p> Proposals can not either: </ p>\n"
+"<ul style = \"list-style-type: disc\">\n"
+"<li> Promote private, not public, causes. </ li>\n"
+"<li> Promote actions that are beyond the powers of the Government or Parliament. </ li>\n"
+"<li> Promote particular causes and not of collective interest. </ li>\n"
+"<li> Escape from democratic principles. In Intelligent Citizen we believe that the basis of democracy is the belief that all citizens should be entitled to the same level of influence on the decisions of our community. </ Li>\n"
+"</ ul>\n"
+"<p> You authorize us to notify you when: </ p>\n"
+"<ul>\n"
+"  <li> An organization wants to support your proposal. </ li>\n"
+"  <li> A candidate is committed to your proposal. </ li>\n"
+"</ ul>\n"
+""
+
+#: suggestions_for_candidates/admin.py:17
+msgid "Enviarle los filtros a los candidatos"
+msgstr "Send filters to candidates"
+
+#: suggestions_for_candidates/models.py:86
+msgid "Filtro de propuestas para candidatos"
+msgstr "Filter proposals for candidates"
+
+#: suggestions_for_candidates/models.py:87
+msgid "Filtros de propuestas para candidatos"
+msgstr "Proposal Filters for Candidates"
+
+#: votai_general_theme/templates/404.html:14
+msgid "\n"
+"              Lo sentimos, esta página ya no existe. <p>Comienza de nuevo desde el <a href=\"/\">home.</a></p></h2>\n"
+"              "
+msgstr "\n"
+"              Sorry, this page no longer exists. <p> Start over from <a href=\"/\"> home. </a> </ p> </ h2>\n"
+"              "
+
+#: votai_general_theme/templates/_dropdown_user.html:15
+msgid "Sección de administración"
+msgstr "Administration section"
+
+#: votai_general_theme/templates/_dropdown_user.html:18
+msgid "Sección del Staff"
+msgstr "Staff section"
+
+#: votai_general_theme/templates/_dropdown_user.html:19
+#: votai_general_theme/templates/backend_citizen/menu.html:78
+msgid "Estadísticas"
+msgstr "About us"
+
+#: votai_general_theme/templates/_dropdown_user.html:20
+msgid "Estadísticas por area"
+msgstr "Statistics by area"
+
+#: votai_general_theme/templates/_dropdown_user.html:26
+msgid "Sección del candidato"
+msgstr "Candidate Section"
+
+#: votai_general_theme/templates/_dropdown_user.html:30
+msgid "Editar mi perfil"
+msgstr "Edit my profile"
+
+#: votai_general_theme/templates/_dropdown_user.html:36
+msgid "Todos los compromisos"
+msgstr "All commitments"
+
+#: votai_general_theme/templates/_dropdown_user.html:43
+msgid "Lista de usuarios"
+msgstr "User list"
+
+#: votai_general_theme/templates/_dropdown_user.html:54
+msgid "Salir"
+msgstr "Exit"
+
+#: votai_general_theme/templates/_dropdown_user.html:60
+#: votai_general_theme/templates/registration/password_reset_complete.html:10
+msgid "Ingresar"
+msgstr "Sign in"
+
+#: votai_general_theme/templates/_election_search_form.html:14
+msgid "Ingresa aquí tu Comuna"
+msgstr "Enter your commune here"
+
+#: votai_general_theme/templates/_election_search_form.html:21
+msgid "Resultado para "
+msgstr "Result for"
+
+#: votai_general_theme/templates/_footer.html:10
+msgid "Un proyecto de"
+msgstr "A project of"
+
+#: votai_general_theme/templates/_footer.html:18
+msgid "Dedicatoria y Agradecimientos"
+msgstr "Dedication and Acknowledgments"
+
+#: votai_general_theme/templates/_head.html:7
+#: votai_general_theme/templates/_head_organizations.html:7
+#: votai_general_theme/templates/base.html:10
+#: votai_general_theme/templates/embedded_base.html:11
+msgid "Vota Inteligente"
+msgstr "Vote Smart"
+
+#: votai_general_theme/templates/_login_section.html:8
+msgid "Para enviar una propuesta debes crearte un usuario primero"
+msgstr "To submit a proposal you must create a user first"
+
+#: votai_general_theme/templates/_login_section.html:14
+msgid "¿Representas a un grupo ciudadano? Regístrate acá:"
+msgstr "Do you represent a citizen group? Register here:"
+
+#: votai_general_theme/templates/_login_section.html:25
+msgid "Ingresa con Facebook o Gmail"
+msgstr "Sign in with Facebook or Gmail"
+
+#: votai_general_theme/templates/_login_section.html:33
+msgid "Regístrate"
+msgstr "Sign Up"
+
+#: votai_general_theme/templates/_login_section.html:44
+msgid "¿Ya tienes un usuario? Ingrésalo"
+msgstr "Already have a user? Enter it"
+
+#: votai_general_theme/templates/_navbar.html:24
+msgid "¿Qué es?"
+msgstr "What is it?"
+
+#: votai_general_theme/templates/_navbar.html:25
+msgid "Propuestas ciudadanas"
+msgstr "Citizen proposals"
+
+#: votai_general_theme/templates/_navbar.html:26
+#: votai_general_theme/templates/backend_staff/per_area_stats.html:20
+msgid "Compromisos"
+msgstr "Commitments"
+
+#: votai_general_theme/templates/_profile_info.html:6
+msgid "Información:"
+msgstr "Information:"
+
+#: votai_general_theme/templates/_profile_info.html:8
+msgid "\n"
+"                Tu nombre de usuario es <strong>%(username)s</strong> y tienes cuenta de organización, es decir puedes tener un perfil público y si cambias el logo, tu organización estará listada en la portada del sitio.\n"
+"            "
+msgstr "\n"
+"                Your username is <strong>% (username) s </ strong> and you have an organization account, ie you can have a public profile and if you change the logo, your organization will be listed on the site's cover page.\n"
+"            "
+
+#: votai_general_theme/templates/_profile_info.html:12
+msgid "\n"
+"            Tu nombre de usuario es <strong>%(username)s</strong> y tienes cuenta de ciudadano, con el puedes crear y apoyar propuestas.\n"
+"        "
+msgstr "\n"
+"            Your username is <strong>% (username) s </ strong> and you have a citizen account, with you can create and support proposals.\n"
+"        "
+
+#: votai_general_theme/templates/_slide_propuestas.html:4
+msgid "Propuestas con más apoyo de los ciudadanos"
+msgstr "Proposals with more support from citizens"
+
+#: votai_general_theme/templates/_slide_propuestas.html:7
+msgid "Mientras más apoyo tenga una propuesta, es más probable que los candidatos asuman un compromiso con ella."
+msgstr "The more support a proposal has, the more likely candidates are to make a commitment to it."
+
+#: votai_general_theme/templates/_slide_propuestas.html:9
+msgid "Tengo una propuesta"
+msgstr "I have a proposal"
+
+#: votai_general_theme/templates/_social_login_buttons.html:9
+msgid "Entra con Google"
+msgstr "Sign in with Google"
+
+#: votai_general_theme/templates/_user_printable.html:1
+msgid "Hola"
+msgstr "Hola"
+
+#: votai_general_theme/templates/agenda/_activity_card.html:47
+msgid "Más información"
+msgstr "More information"
+
+#: votai_general_theme/templates/agenda/all_activities.html:12
+msgid "Agrega una actividad a la agenda."
+msgstr "Adds an activity to the calendar."
+
+#: votai_general_theme/templates/agenda/all_activities.html:14
+msgid "Para adicionar um evento você precisa ter um perfil na plataforma. clique aqui!"
+msgstr "To add an event you need to have a profile on the platform. click here!"
+
+#: votai_general_theme/templates/agenda/all_activities.html:18
+msgid "Actividades"
+msgstr "Activities"
+
+#: votai_general_theme/templates/backend_candidate/_suggestions_formset.html:11
+msgid "\n"
+"                <b>Propuesta Nº%(id)s</b> - Una propuesta de <strong>%(proposer)s</strong>\n"
+"              "
+msgstr "\n"
+"                <b> Proposal #% s </ b> - A proposal of <strong>% (proposer) s </ strong>\n"
+"              "
+
+#: votai_general_theme/templates/backend_candidate/_suggestions_formset.html:23
+msgid "\n"
+"                  <b>Los términos en los cuales me comprometo son:</b>(opcional)\n"
+"                "
+msgstr "\n"
+"                  <b> The terms in which I undertake are: </ b> (optional)\n"
+"                "
+
+#: votai_general_theme/templates/backend_candidate/_suggestions_formset.html:30
+msgid "\n"
+"                    Me comprometo con esta propuesta\n"
+"                  "
+msgstr "\n"
+"                    I commit to this proposal\n"
+"                  "
+
+#: votai_general_theme/templates/backend_candidate/_suggestions_formset.html:39
+msgid "Enviar compromisos"
+msgstr "Submit commitments"
+
+#: votai_general_theme/templates/backend_candidate/add_activity.html:11
+#: votai_general_theme/templates/backend_candidate/menu.html:28
+msgid "Mi agenda"
+msgstr "My agenda"
+
+#: votai_general_theme/templates/backend_candidate/add_activity.html:12
+msgid "Agregar actividad"
+msgstr "Add Activity"
+
+#: votai_general_theme/templates/backend_candidate/all_my_activities.html:10
+#: votai_general_theme/templates/backend_citizen/all_my_activities.html:10
+msgid "Agrega una actividad a tu agenda."
+msgstr "Add an activity to your calendar."
+
+#: votai_general_theme/templates/backend_candidate/auth_login.html:6
+msgid "Login"
+msgstr "Login"
+
+#: votai_general_theme/templates/backend_candidate/auth_login.html:12
+msgid "Bienvenid@ Candidat@:"
+msgstr "Welcome @ Candidate:"
+
+#: votai_general_theme/templates/backend_candidate/auth_login.html:13
+msgid "Si no sabes como ingresar:"
+msgstr "If you do not know how to enter:"
+
+#: votai_general_theme/templates/backend_candidate/auth_login.html:19
+msgid "login"
+msgstr "Login"
+
+#: votai_general_theme/templates/backend_candidate/auth_login.html:21
+#: votai_general_theme/templates/login/basic.html:11
+msgid "¿Olvidaste tu contraseña?"
+msgstr "Forgot your password?"
+
+#: votai_general_theme/templates/backend_candidate/complete_12_naranja.html:14
+msgid "Ya completaste la 1/2 naranja pero puedes modificar tus opiniones =)"
+msgstr "You have already completed the 1/2 orange but you can modify your opinions =)"
+
+#: votai_general_theme/templates/backend_candidate/help_finding_candidates.html:16
+msgid "Elije uno de estos tuits y ayúdanos!"
+msgstr "Choose one of these tweets and help us!"
+
+#: votai_general_theme/templates/backend_candidate/help_finding_candidates.html:28
+#: votai_general_theme/templates/backend_candidate/help_finding_candidates.html:32
+#: votai_general_theme/templates/backend_candidate/help_finding_candidates.html:36
+#: votai_general_theme/templates/backend_candidate/help_finding_candidates.html:40
+#: votai_general_theme/templates/backend_candidate/help_finding_candidates.html:44
+msgid "https://votainteligente.cl"
+msgstr "https://votainteligente.cl"
+
+#: votai_general_theme/templates/backend_candidate/home.html:18
+msgid "¡Bienvenid@ a la sección de candidaturas!"
+msgstr "Welcome to the applications section!"
+
+#: votai_general_theme/templates/backend_candidate/i_have_commited.html:14
+msgid "Tus compromisos"
+msgstr "Your commitments"
+
+#: votai_general_theme/templates/backend_candidate/i_have_commited.html:18
+msgid "Tu compromiso"
+msgstr "Your commitment"
+
+#: votai_general_theme/templates/backend_candidate/i_have_commited.html:30
+#: votai_general_theme/templates/popular_proposal/_estado_para_candidato.html:15
+msgid "Te comprometiste"
+msgstr "You compromised"
+
+#: votai_general_theme/templates/backend_candidate/i_have_commited.html:34
+msgid "No te comprometiste"
+msgstr "You did not compromise"
+
+#: votai_general_theme/templates/backend_candidate/i_have_commited.html:46
+msgid "\n"
+"\n"
+"\tAún no tienes compromisos, sin embargo puedes revisar <a href=\"%(url)s\">La sección de propuestas para mi</a> para aceptar aquellas que quieres.\n"
+"\n"
+"\t"
+msgstr "\n"
+"\n"
+"You have no commitments yet, however you can check <a href=\"%(url)s\"> The proposals section for me </a> to accept the ones you want.\n"
+"\n"
+""
+
+#: votai_general_theme/templates/backend_candidate/menu.html:13
+msgid "Perfil de candidatura"
+msgstr "Application profile"
+
+#: votai_general_theme/templates/backend_candidate/menu.html:18
+msgid "Completa tu perfil"
+msgstr "Complete your profile"
+
+#: votai_general_theme/templates/backend_candidate/menu.html:23
+#: votai_general_theme/templates/backend_citizen/menu.html:24
+#: votai_general_theme/templates/backend_citizen/menu.html:48
+#: votai_general_theme/templates/registration/password_change.html:11
+msgid "Cambia tu contraseña"
+msgstr "Change your password"
+
+#: votai_general_theme/templates/backend_candidate/menu.html:48
+msgid "Mis compromisos"
+msgstr "My commitments"
+
+#: votai_general_theme/templates/backend_candidate/menu.html:54
+msgid "Propuestas para mi"
+msgstr "Proposals for me"
+
+#: votai_general_theme/templates/backend_candidate/suggestions_for_candidate.html:15
+msgid "\n"
+"<p>Hola <b>%(name)s</b>:</p>\n"
+"<p><a href=\"https://Votainteligente.cl\">Vota Inteligente</a> es una plataforma, SIN COSTO ASOCIADO, de la Fundación Ciudadano Inteligente que recibe propuestas ciudadanas y de la sociedad civil en el marco de las elecciones de este año.</p>\n"
+"<p>Te invitamos a participar como candidatura a conocer y comprometerte con las propuestas ciudadanas de Vota Inteligente. Para ello, hemos seleccionado algunas propuestas que creemos te pueden interesar. Para comprometerte basta que marques en el casillero de bajo de la propuesta y luego envíes tu respuesta presionando “enviar compromisos”. Tus respuestas se verán reflejados en tu perfil en la página web.\n"
+"</p>\n"
+"<p>Además, los compromisos que adoptes serán parte de la <a href=\"https://votainteligente.cl/media_naranja\">Media Naranja Política</a>, herramienta que permite que electores encuentren a la candidatura que le es más afín en base a los mismos compromisos adoptados por éstas en la plataforma. En sólo una semana de funcionamiento la herramienta ya tiene <b>más de 130.000 visitas</b> las que alcanzarán su máximo en la medida que nos acerquemos a las elecciones.</p>\n"
+"\n"
+""
+msgstr "\n"
+"<p> Hello <b>% (name) s </ b>: </ p>\n"
+"<p> <a href=\"https://Votainteligente.cl\"> Smart Vote </a> is a platform, NO COST ASSOCIATED, of the Fundación Ciudadano Inteligente that receives citizen and civil society proposals within the framework of the elections this year. </ p>\n"
+"<p> We invite you to participate as an application to know and commit to the proposals of citizens of Smart Vote. For this, we have selected some proposals that we think you may be interested. To compromise you just have to check in the box below the proposal and then send your response by pressing \"send commitments\". Your answers will be reflected in your profile on the website.\n"
+"</ p>\n"
+"<p> In addition, the commitments you adopt will be part of the <a href=\"https://votainteligente.cl/media_naranja\"> Media Naranja Política </a>, a tool that allows voters to find the candidacy that is most on the basis of the same commitments made by them on the platform. In just one week of operation the tool already has <b> more than 130,000 hits </ b> which will reach their maximum as we get closer to the elections. </ P>\n"
+"\n"
+""
+
+#: votai_general_theme/templates/backend_candidate/thanks_for_commiting.html:8
+msgid "Gracias por comprometerte!"
+msgstr "Thank you for committing yourself!"
+
+#: votai_general_theme/templates/backend_candidate/thanks_for_commiting.html:12
+msgid "\n"
+"        Revisa y publicita tu compromiso con %(proposal)s\n"
+"      "
+msgstr "\n"
+"        Review and publicize your commitment to% (proposal) s\n"
+"      "
+
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:8
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:74
+msgid "Aún no has respondido la 1/2 naranja"
+msgstr "You have not yet answered the 1/2 orange"
+
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:10
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:76
+msgid "<i class=\"fa fa-heart\"></i>¡Completa tu 1/2 Naranja!"
+msgstr "<i class = \"fa fa-heart\"> </ i> Complete your 1/2 Orange!"
+
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:12
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:78
+msgid "Ya respondiste la 1/2 naranja. Muchas gracias"
+msgstr "You already answered the 1/2 orange. Thank you"
+
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:16
+msgid "Tus propuestas"
+msgstr "Your proposals"
+
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:18
+msgid "\n"
+"    Potencia tus propuestas utilizando nuestro <a href=\"/pages/herramientas_de_activismo\">Kit de Activismo</a>\n"
+"  "
+msgstr "\n"
+"    Power up your proposals using our <a href=\"/pages/activation tools\"> Activism Kit </a>\n"
+"  "
+
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:26
+#: votai_general_theme/templates/backend_citizen/my_supports.html:34
+#: votai_general_theme/templates/backend_citizen/stats.html:9
+msgid "Título propuesta"
+msgstr "Proposed title"
+
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:27
+msgid "Estado"
+msgstr "state"
+
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:28
+#: votai_general_theme/templates/backend_citizen/my_supports.html:33
+#: votai_general_theme/templates/backend_staff/per_area_stats.html:17
+msgid "Comuna"
+msgstr "Commune"
+
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:41
+msgid "<span class=\"label label-warning\"><i class=\"fa fa-clock-o\"></i> En revisión</span>"
+msgstr "<span class = \"label label-warning\"> <i class = \"fa fa-clock-o\"> </ i> Under review </ span>"
+
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:44
+msgid "Modifíca tu propuesta"
+msgstr "Modify your proposal"
+
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:49
+msgid "Aceptada"
+msgstr "Accepted"
+
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:52
+msgid "Rechazada"
+msgstr "Rejected"
+
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:60
+msgid "Agregar"
+msgstr "Add"
+
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:86
+msgid "Aún no tienes propuestas haz la primera"
+msgstr "You do not have proposals until the first"
+
+#: votai_general_theme/templates/backend_citizen/_proposals-table.html:87
+msgid "¡Sube tu propuesta!"
+msgstr "Upload your proposal!"
+
+#: votai_general_theme/templates/backend_citizen/all_my_activities.html:12
+msgid "Tu agenda de actividades"
+msgstr "Your activity calendar"
+
+#: votai_general_theme/templates/backend_citizen/already_unsuscribed.html:9
+msgid "¡Listo ya no recibirás nuestras noticias!"
+msgstr "Ready, you will not receive our news!"
+
+#: votai_general_theme/templates/backend_citizen/do_you_belong_to_an_org.html:9
+msgid "¡Hola %(user)s! ¿Perteneces a algún grupo ciudadano?"
+msgstr "Hi% (user) s! Do you belong to any citizen group?"
+
+#: votai_general_theme/templates/backend_citizen/do_you_belong_to_an_org.html:14
+msgid "Sí"
+msgstr "Yes"
+
+#: votai_general_theme/templates/backend_citizen/do_you_belong_to_an_org.html:17
+msgid "No"
+msgstr "At the"
+
+#: votai_general_theme/templates/backend_citizen/menu.html:16
+msgid "Perfil de organización"
+msgstr "Organization profile"
+
+#: votai_general_theme/templates/backend_citizen/menu.html:18
+msgid "\n"
+"      Actualizar perfil de Organizacion\n"
+"    "
+msgstr "\n"
+"      Update Organization Profile\n"
+"    "
+
+#: votai_general_theme/templates/backend_citizen/menu.html:27
+#: votai_general_theme/templates/backend_citizen/menu.html:51
+msgid "Mis apoyos"
+msgstr "My supports"
+
+#: votai_general_theme/templates/backend_citizen/menu.html:39
+msgid "Mi perfil"
+msgstr "My Profile"
+
+#: votai_general_theme/templates/backend_citizen/menu.html:43
+msgid "Actualizar perfil"
+msgstr "Update Profile"
+
+#: votai_general_theme/templates/backend_citizen/menu.html:56
+msgid "Búsquedas"
+msgstr "Search"
+
+#: votai_general_theme/templates/backend_citizen/menu.html:66
+msgid "Mis propuestas"
+msgstr "My proposals"
+
+#: votai_general_theme/templates/backend_citizen/menu.html:72
+msgid "Mis eventos"
+msgstr "My Events"
+
+#: votai_general_theme/templates/backend_citizen/my_proposals.html:9
+msgid "Backend Ciudadano - Propuestas"
+msgstr "Backend Citizen - Proposals"
+
+#: votai_general_theme/templates/backend_citizen/my_supports.html:9
+msgid "Backend Ciudadano - Apoyos"
+msgstr "Backend Citizen - Supports"
+
+#: votai_general_theme/templates/backend_citizen/my_supports.html:28
+msgid "Tus apoyos"
+msgstr "Your supports"
+
+#: votai_general_theme/templates/backend_citizen/my_supports.html:35
+msgid "Autor"
+msgstr "Author"
+
+#: votai_general_theme/templates/backend_citizen/my_supports.html:36
+#: votai_general_theme/templates/backend_staff/index.html:33
+#: votai_general_theme/templates/proposal_subscriptions/list.html:32
+msgid "Acciones"
+msgstr "Actions"
+
+#: votai_general_theme/templates/backend_citizen/my_supports.html:46
+msgid "Quitar apoyo"
+msgstr "Remove support"
+
+#: votai_general_theme/templates/backend_citizen/stats.html:3
+msgid "Las estadísticas sobre tus propuestas"
+msgstr "Statistics on your proposals"
+
+#: votai_general_theme/templates/backend_citizen/stats.html:10
+msgid "Candidatos comprometidos"
+msgstr "Committed Candidates"
+
+#: votai_general_theme/templates/backend_citizen/stats.html:12
+msgid "Visitas totales"
+msgstr "Total Visits"
+
+#: votai_general_theme/templates/backend_citizen/temporary_data_update.html:15
+#: votai_general_theme/templates/backend_citizen/temporary_data_update.html:21
+#: votai_general_theme/templates/popular_proposal/update.html:27
+msgid "Actualiza tu propuesta"
+msgstr "Update your proposal"
+
+#: votai_general_theme/templates/backend_citizen/update_my_profile.html:8
+msgid "Backend Ciudadano - Perfil"
+msgstr "Profile Profile Log in to check your private messages Log in"
+
+#: votai_general_theme/templates/backend_citizen/update_my_profile.html:12
+msgid "Tu perfil"
+msgstr "Your profile"
+
+#: votai_general_theme/templates/backend_citizen/update_my_profile.html:17
+#: votai_general_theme/templates/backend_organization/update_extrapage.html:22
+#: votai_general_theme/templates/backend_organization/update_my_profile.html:59
+msgid "Actualizar"
+msgstr "Update"
+
+#: votai_general_theme/templates/backend_citizen/update_subscription.html:9
+msgid "¡Hola %(username)s! Si te quieres desuscribir marca lo que está abajo."
+msgstr "Hello% (username) s! If you want to unsubscribe mark what is below."
+
+#: votai_general_theme/templates/backend_organization/update_extrapage.html:13
+msgid "\n"
+"\t\tRevisa tu página de perfil <a href=\"%(org_profile_url)s\" target=\"_blank\">acá</a>\t\n"
+"\t\t"
+msgstr "\n"
+"Check out your profile page <a href=\"%(org_profile_url)s\" target=\"_blank\"> here </a>\n"
+""
+
+#: votai_general_theme/templates/backend_organization/update_my_profile.html:9
+msgid "Perfil Organización"
+msgstr "Organization Profile"
+
+#: votai_general_theme/templates/backend_organization/update_my_profile.html:17
+msgid "Te recomendamos subir una imagen en formato jpg de 400x400px"
+msgstr "We recommend uploading an image in 400x400px jpg format"
+
+#: votai_general_theme/templates/backend_organization/update_my_profile.html:21
+#: votai_general_theme/templates/backend_organization/update_my_profile.html:37
+msgid "Actualmente:"
+msgstr "Currently:"
+
+#: votai_general_theme/templates/backend_organization/update_my_profile.html:24
+#: votai_general_theme/templates/backend_organization/update_my_profile.html:40
+msgid "Limpiar"
+msgstr "To clean"
+
+#: votai_general_theme/templates/backend_organization/update_my_profile.html:26
+#: votai_general_theme/templates/backend_organization/update_my_profile.html:42
+msgid "Modificar:"
+msgstr "Modify:"
+
+#: votai_general_theme/templates/backend_organization/update_my_profile.html:32
+msgid "Imagen de fondo en tu perfil"
+msgstr "Background image on your profile"
+
+#: votai_general_theme/templates/backend_organization/update_my_profile.html:33
+msgid "Te recomendamos subir una imagen en formato jpg de 2000x1200px"
+msgstr "We recommend uploading an image in jpg format of 2000x1200px"
+
+#: votai_general_theme/templates/backend_staff/add_contact_and_send_mail.html:5
+msgid "Hermana/o al apretar submit se le enviará un mail al candidato con su nuevo usuario y password"
+msgstr "Sister to submit submit will send an email to the candidate with your new user and password"
+
+#: votai_general_theme/templates/backend_staff/add_contact_and_send_mail.html:9
+msgid "Envía mail"
+msgstr "Send mail"
+
+#: votai_general_theme/templates/backend_staff/all_commitments.html:4
+msgid "\n"
+"\t\tLe tenimo {commitments_count{}} compromisos.\n"
+"\t"
+msgstr "\n"
+"We have commitments {commitments_count}}.\n"
+""
+
+#: votai_general_theme/templates/backend_staff/index.html:18
+msgid "¡Terrible de bienvenid@!"
+msgstr "Terrible welcome!"
+
+#: votai_general_theme/templates/backend_staff/index.html:19
+msgid "¡Eres parte de nuestro equipo!"
+msgstr "You are part of our team!"
+
+#: votai_general_theme/templates/backend_staff/index.html:20
+msgid "Aquí podrás ver y moderar los elementos de VotaInteligente "
+msgstr "Here you can view and moderate the elements of VotaInteligente"
+
+#: votai_general_theme/templates/backend_staff/index.html:25
+msgid "ID"
+msgstr "ID"
+
+#: votai_general_theme/templates/backend_staff/index.html:26
+#: votai_general_theme/templates/backend_staff/index.html:27
+msgid "Area"
+msgstr "Area"
+
+#: votai_general_theme/templates/backend_staff/index.html:29
+msgid "+Info"
+msgstr "+ Info"
+
+#: votai_general_theme/templates/backend_staff/index.html:31
+msgid "Usuario"
+msgstr "User"
+
+#: votai_general_theme/templates/backend_staff/index.html:32
+msgid "Comentarios del usuario"
+msgstr "User Reviews"
+
+#: votai_general_theme/templates/backend_staff/index.html:67
+msgid "Moderame!"
+msgstr "Moderame!"
+
+#: votai_general_theme/templates/backend_staff/index.html:70
+msgid "Esperando al usuario"
+msgstr "Waiting for user"
+
+#: votai_general_theme/templates/backend_staff/index.html:72
+msgid "¡Aceptada!"
+msgstr "Accepted!"
+
+#: votai_general_theme/templates/backend_staff/index.html:74
+msgid "¡Rechazada!"
+msgstr "Rejected!"
+
+#: votai_general_theme/templates/backend_staff/per_area_stats.html:10
+msgid "Las instituciones van a intentar preservar el problema para el cual ellas son la solución"
+msgstr "Institutions are going to try to preserve the problem for which they are the solution"
+
+#: votai_general_theme/templates/backend_staff/per_area_stats.html:11
+msgid "Los números por comuna:"
+msgstr "The numbers by commune:"
+
+#: votai_general_theme/templates/backend_staff/per_area_stats.html:18
+msgid "Promesas Ciudadanas locales"
+msgstr "Local Citizen Promises"
+
+#: votai_general_theme/templates/backend_staff/per_area_stats.html:19
+msgid "Promesas Ciudadanas totales"
+msgstr "Total Citizen Promises"
+
+#: votai_general_theme/templates/backend_staff/popular_proposal_comments.html:10
+msgid "Envía estos comentarios a su autor"
+msgstr "Send these comments to the author"
+
+#: votai_general_theme/templates/backend_staff/proposal_moderation.html:5
+msgid "Sí, acepto"
+msgstr "Yes, I accept"
+
+#: votai_general_theme/templates/backend_staff/proposal_moderation.html:8
+msgid "No, la rechazaré!"
+msgstr "No, I will reject it!"
+
+#: votai_general_theme/templates/backend_staff/proposal_moderation.html:16
+msgid "Rechaza esta propuesta ciudadana"
+msgstr "Rejects this citizen proposal"
+
+#: votai_general_theme/templates/backend_staff/stats.html:9
+msgid "Estadisticas"
+msgstr "Stats"
+
+#: votai_general_theme/templates/backend_staff/stats.html:11
+msgid "Otras estadísticas"
+msgstr "Other statistics"
+
+#: votai_general_theme/templates/candideitorg/information_source.html:3
+#: votai_general_theme/templates/elections/taken_position.html:15
+msgid "Fuente"
+msgstr "Source"
+
+#: votai_general_theme/templates/elections/_election_with_position.html:24
+msgid "No se ha comprometido"
+msgstr "Not committed"
+
+#: votai_general_theme/templates/elections/_election_with_position.html:33
+#: votai_general_theme/templates/elections/election_detail.html:69
+msgid "Electo"
+msgstr "Elected"
+
+#: votai_general_theme/templates/elections/_election_with_position.html:40
+#: votai_general_theme/templates/elections/_election_with_position.html:101
+msgid "Staff: ya se conectó."
+msgstr "Staff: Already logged in."
+
+#: votai_general_theme/templates/elections/_election_with_position.html:42
+#: votai_general_theme/templates/elections/_election_with_position.html:103
+msgid "Staff: NO se ha conectado."
+msgstr "Staff: You are not logged in."
+
+#: votai_general_theme/templates/elections/_election_with_position.html:117
+msgid "Ver todos"
+msgstr "See all"
+
+#: votai_general_theme/templates/elections/_election_with_position.html:125
+#: votai_general_theme/templates/search.html:31
+msgid "Anterior"
+msgstr "Previous"
+
+#: votai_general_theme/templates/elections/_election_with_position.html:133
+#: votai_general_theme/templates/popular_proposal/wizard/select_area.html:45
+#: votai_general_theme/templates/search.html:33
+msgid "Siguiente"
+msgstr "Next"
+
+#: votai_general_theme/templates/elections/_is_staff_candidate_detail.html:8
+msgid "Este candidato se ha conectado."
+msgstr "This candidate has logged in."
+
+#: votai_general_theme/templates/elections/_is_staff_candidate_detail.html:10
+msgid "\n"
+"\t    \t\t\t\t\tEste candidato no se ha conectado pero le enviamos el mail a %(mail)s\n"
+"\t    \t\t\t\t"
+msgstr "\n"
+"This candidate has not logged in but we send the email to% (mail) s\n"
+""
+
+#: votai_general_theme/templates/elections/_is_staff_candidate_detail.html:16
+#: votai_general_theme/templates/elections/_is_staff_candidate_detail.html:21
+msgid "No tenemos contacto de este candidato"
+msgstr "We have no contact from this candidate"
+
+#: votai_general_theme/templates/elections/_is_staff_candidate_detail.html:18
+#: votai_general_theme/templates/elections/_is_staff_candidate_detail.html:22
+msgid "Agrégale mail a esta/e hermana/o"
+msgstr "Email her and / or sister"
+
+#: votai_general_theme/templates/elections/admin_app_name.html:1
+msgid "Tus Elecciones"
+msgstr "Your Elections"
+
+#: votai_general_theme/templates/elections/admin_model_election_change_form.html:3
+msgid "Aquí puedes editar todo el contenido de una elección."
+msgstr "Here you can edit all the content of an election."
+
+#: votai_general_theme/templates/elections/area.html:10
+msgid "\n"
+"  Congresistas para el %(area)s\n"
+""
+msgstr "\n"
+"  Congressmen for the% s\n"
+""
+
+#: votai_general_theme/templates/elections/area.html:13
+msgid "Conoce tus congrsistas para el %(area)s"
+msgstr "Meet your congrsistas for the% (area) s"
+
+#: votai_general_theme/templates/elections/area.html:34
+msgid "¡Ingresa a votainteligente.cl para conocer los candidatos de %(area)s!"
+msgstr "Login to votainteligente.cl to know the candidates for% (area) s!"
+
+#: votai_general_theme/templates/elections/area.html:35
+msgid "Conoce a los candidatos a Senador y Diputado por %(area)s"
+msgstr "Meet the candidates for Senator and Deputy for% (area) s"
+
+#: votai_general_theme/templates/elections/area.html:39
+msgid ",%(area)s,parlamentarios de %(area)s,diputados %(area)s,senadores %(area)s,"
+msgstr ",% (area) s, parliamentarians of% s, deputies%, senators%"
+
+#: votai_general_theme/templates/elections/area.html:62
+msgid "Congresistas"
+msgstr "Congressmen"
+
+#: votai_general_theme/templates/elections/area.html:64
+msgid "Congresistas %(area)s"
+msgstr "Congressmen% (area) s"
+
+#: votai_general_theme/templates/elections/ask_candidate.html:5
+#: votai_general_theme/templates/elections/ask_candidate.html:7
+#: votai_general_theme/templates/elections/election_detail.html:35
+#: votai_general_theme/templates/elections/embedded.html:62
+msgid "Pregúntales"
+msgstr "Ask them"
+
+#: votai_general_theme/templates/elections/ask_candidate.html:20
+msgid "Yo soy"
+msgstr "I am"
+
+#: votai_general_theme/templates/elections/ask_candidate.html:21
+msgid "Identifícate como quieras"
+msgstr "Identify yourself as you want"
+
+#: votai_general_theme/templates/elections/ask_candidate.html:25
+msgid "Si deseas que te notifiquemos la respuesta del candidato"
+msgstr "If you want us to notify you of the candidate's response"
+
+#: votai_general_theme/templates/elections/ask_candidate.html:28
+msgid "Ponle un título"
+msgstr "Put a title"
+
+#: votai_general_theme/templates/elections/ask_candidate.html:29
+msgid "Cómo pretenden superar la pobreza?"
+msgstr "How do you intend to overcome poverty?"
+
+#: votai_general_theme/templates/elections/ask_candidate.html:32
+msgid "Escribe tu pregunta"
+msgstr "Enter your question"
+
+#: votai_general_theme/templates/elections/ask_candidate.html:33
+msgid "Escribe una pregunta clara y respetuosa. Revisa si otros han preguntado lo que a ti te interesa saber"
+msgstr "Write a clear and respectful question. Check if others have asked what you are interested in knowing"
+
+#: votai_general_theme/templates/elections/ask_candidate.html:37
+msgid "A quien quieres preguntar"
+msgstr "Who do you want to ask"
+
+#: votai_general_theme/templates/elections/ask_candidate.html:40
+msgid "Estos son los candidatos que tienen e-mail."
+msgstr "These are the candidates who have e-mail."
+
+#: votai_general_theme/templates/elections/ask_candidate.html:40
+msgid " ¿Eres candidato? "
+msgstr " Are you a candidate?"
+
+#: votai_general_theme/templates/elections/ask_candidate.html:40
+msgid "escríbenos"
+msgstr "write us"
+
+#: votai_general_theme/templates/elections/ask_candidate.html:48
+msgid "Acepto que mis preguntas y respuestas sean publicadas en este mismo medio.<br>Confirmo que lo que aquí dice no atenta contra el candidato."
+msgstr "I accept that my questions and answers are published in the same way. <br> I confirm that what is said here does not attack the candidate."
+
+#: votai_general_theme/templates/elections/ask_candidate.html:52
+msgid "Enviar pregunta"
+msgstr "Submit question"
+
+#: votai_general_theme/templates/elections/ask_candidate.html:63
+msgid "Preguntas recientes"
+msgstr "Recent Questions"
+
+#: votai_general_theme/templates/elections/ask_candidate.html:96
+msgid "No hay mensajes aún. Sé la/el primer@ en preguntar"
+msgstr "No posts yet. Be the first to ask"
+
+#: votai_general_theme/templates/elections/candidate_detail.html:53
+msgid "No se ha comprometido en VotaInteligente"
+msgstr "You have not compromised in Smart Vote"
+
+#: votai_general_theme/templates/elections/candidate_detail.html:107
+msgid "Este candidato se ha comprometido en VotaInteligente con"
+msgstr "This candidate has committed himself / herself to VotaInteligente with"
+
+#: votai_general_theme/templates/elections/candidate_detail.html:108
+msgid "\n"
+"                %(commitment_count)s Propuestas ciudadanas\n"
+"              "
+msgstr "\n"
+"                % (commitment_count) s Citizen proposals\n"
+"              "
+
+#: votai_general_theme/templates/elections/candidate_detail.html:112
+#: votai_general_theme/templates/elections/candidate_detail.html:158
+msgid "Este candidato aún no se ha comprometido en VotaInteligente"
+msgstr "This candidate has not yet committed to Smart Vote"
+
+#: votai_general_theme/templates/elections/candidate_detail.html:117
+msgid "Contactos"
+msgstr "Contacts"
+
+#: votai_general_theme/templates/elections/candidate_detail.html:167
+msgid "Revisar propuestas ciudadana"
+msgstr "Review citizen proposals"
+
+#: votai_general_theme/templates/elections/candidates/agenda.html:7
+msgid "Agenda"
+msgstr "Schedule"
+
+#: votai_general_theme/templates/elections/candidates/agenda.html:15
+msgid "Este candidato no cuenta con una agenda de actividades en VotaInteligente"
+msgstr "This candidate does not have an agenda of activities in VotaInteligente"
+
+#: votai_general_theme/templates/elections/candidates/agenda.html:18
+msgid "Agrega tus actividades"
+msgstr "Add your activities"
+
+#: votai_general_theme/templates/elections/candidates/personal_data_candidate.html:6
+#: votai_general_theme/templates/elections/personal_data_candidate.html:5
+msgid "Nacimiento"
+msgstr "Birth"
+
+#: votai_general_theme/templates/elections/candidates/posiciones_politicas_de_los_candidatos.html:6
+msgid "Posiciones políticas"
+msgstr "Political positions"
+
+#: votai_general_theme/templates/elections/compare_candidates.html:5
+#: votai_general_theme/templates/elections/compare_candidates.html:7
+#: votai_general_theme/templates/elections/election_detail.html:32
+#: votai_general_theme/templates/elections/embedded.html:59
+msgid "Frente a Frente"
+msgstr "Face to face"
+
+#: votai_general_theme/templates/elections/compare_candidates.html:25
+#: votai_general_theme/templates/elections/compare_candidates.html:36
+msgid "Selecciona un candidato"
+msgstr "Select a candidate"
+
+#: votai_general_theme/templates/elections/compare_candidates.html:96
+#: votai_general_theme/templates/elections/compare_candidates.html:138
+msgid "Aquí se mostraran las diferencias y similitudes entre los candidatos que selecciones."
+msgstr "Here you will see the differences and similarities between the candidates you select."
+
+#: votai_general_theme/templates/elections/election_card.html:10
+msgid "Comunas"
+msgstr "Communes"
+
+#: votai_general_theme/templates/elections/election_card.html:27
+msgid "Sin compromisos en votainteligente.cl"
+msgstr "No commitments at votainteligente.cl"
+
+#: votai_general_theme/templates/elections/election_detail.html:20
+msgid "\n"
+"\t\t\tCandidatos a</div><a href=\"%(election_detail_url)s\">%(position)s por %(area)s\n"
+"\t"
+msgstr "\n"
+"Candidates for </ div> <a href=\"%(election_detail_url)s\">% (position) s for% (area) s\n"
+""
+
+#: votai_general_theme/templates/elections/election_detail.html:29
+#: votai_general_theme/templates/elections/embedded.html:56
+#: votai_general_theme/templates/elections/soulmate_candidate.html:52
+#: votai_general_theme/templates/elections/soulmate_candidate.html:54
+msgid "1/2 Naranja"
+msgstr "1/2 Orange"
+
+#: votai_general_theme/templates/elections/election_detail.html:38
+#: votai_general_theme/templates/elections/embedded.html:65
+#: votai_general_theme/templates/elections/ranking_candidates.html:5
+#: votai_general_theme/templates/elections/ranking_candidates.html:7
+msgid "Ranking"
+msgstr "Ranking"
+
+#: votai_general_theme/templates/elections/election_detail.html:62
+msgid "No ha respondido"
+msgstr "Did not respond"
+
+#: votai_general_theme/templates/elections/election_questionary.html:7
+#: votai_general_theme/templates/elections/election_questionary.html:9
+#: votai_general_theme/templates/elections/embedded.html:53
+msgid "Cuestionario"
+msgstr "Questionnaire"
+
+#: votai_general_theme/templates/elections/election_questionary.html:69
+msgid "y"
+msgstr "and"
+
+#: votai_general_theme/templates/elections/embedded.html:8
+msgid "Portada"
+msgstr "Home page"
+
+#: votai_general_theme/templates/elections/embedded.html:23
+msgid "Tweet"
+msgstr "Tweet"
+
+#: votai_general_theme/templates/elections/message_detail.html:7
+#: votai_general_theme/templates/preguntales/confirmation.html:6
+msgid "Mensaje"
+msgstr "Post"
+
+#: votai_general_theme/templates/elections/message_in_list.html:20
+msgid "Esperando moderación"
+msgstr "Waiting for moderation"
+
+#: votai_general_theme/templates/elections/message_in_list.html:32
+msgid "No hay respuestas aún"
+msgstr "No answers yet"
+
+#: votai_general_theme/templates/elections/questions_per_candidate.html:15
+msgid "Preguntas para"
+msgstr "Questions for"
+
+#: votai_general_theme/templates/elections/ranking_candidates.html:19
+msgid "Todavía no hay preguntas suficientes para construir el ranking"
+msgstr "There are still not enough questions to build the ranking"
+
+#: votai_general_theme/templates/elections/ranking_candidates.html:23
+msgid "haz tu la primera"
+msgstr "do your first"
+
+#: votai_general_theme/templates/elections/ranking_candidates.html:32
+msgid "Candidatos que más responden a los ciudadanos"
+msgstr "Candidates who respond the most to citizens"
+
+#: votai_general_theme/templates/elections/ranking_candidates.html:45
+#: votai_general_theme/templates/elections/ranking_candidates.html:82
+msgid "Ha respondido"
+msgstr "Has answered"
+
+#: votai_general_theme/templates/elections/ranking_candidates.html:45
+#: votai_general_theme/templates/elections/ranking_candidates.html:82
+msgid "preguntas"
+msgstr "questions"
+
+#: votai_general_theme/templates/elections/ranking_candidates.html:57
+#: votai_general_theme/templates/elections/ranking_candidates.html:94
+msgid "Revisa las preguntas que le han realizado"
+msgstr "Review the questions you have been asked"
+
+#: votai_general_theme/templates/elections/ranking_candidates.html:57
+#: votai_general_theme/templates/elections/ranking_candidates.html:94
+msgid "Sigue preguntando"
+msgstr "Keep asking"
+
+#: votai_general_theme/templates/elections/ranking_candidates.html:70
+msgid "Candidatos que menos responden a los ciudadanos"
+msgstr "Candidates who are less responsive to citizens"
+
+#: votai_general_theme/templates/elections/ranking_candidates.html:108
+msgid "¿Cómo se calcula el ranking?"
+msgstr "How is the ranking calculated?"
+
+#: votai_general_theme/templates/elections/ranking_candidates.html:117
+msgid "Cómo se calcula el ranking?"
+msgstr "How is the ranking calculated?"
+
+#: votai_general_theme/templates/elections/ranking_candidates.html:120
+msgid "\n"
+"\t\t\t\t<p>Ordenamos a los candidatos por un índice que describe cuanto está respondiendo y cuanto es el interés que genera entre los ciudadanos.</p>\n"
+"\t\t\t\t<p>Este índice se calcula como se explica acá:</p>\n"
+"\t\t\t\t<p><strong>pr = Preguntas respondidas por el candidato</strong></p>\n"
+"\t\t\t\t<p><strong>ph = Preguntas hechas al candidato</strong></p>\n"
+"\t\t\t\t<p><strong>P = Total de preguntas</strong></p>\n"
+"\t\t\t\t<p><strong>R = Total de respuestas</strong></p>\n"
+"\t\t\t\t<p><strong>indice_por_candidato = (indice_de_premio + 1)*ph*pr - ph^2</strong></p>\n"
+"\t\t\t\t<p>Donde el índice de premio se calcula como sigue</p>\n"
+"\t\t\t\t<p><strong>indice_de_premio = P/R</strong></p>\n"
+"\t\t\t\t<p>Si quieres ser parte de la discusión sobre el cálculo del índice puedes <a href=\"https://github.com/ciudadanointeligente/votainteligente-portal-electoral/issues/145\" target=\"blank\">seguir el issue #145 en github</a>\n"
+"\t\t\t\t</p>\n"
+"\t\t\t\t"
+msgstr "\n"
+"<p> We order the candidates by an index that describes how much they are responding and how much interest they generate among citizens. </ p>\n"
+"<p> This index is calculated as explained here: </ p>\n"
+"<p> <strong> pr = Questions answered by the candidate </ strong> </ p>\n"
+"<p> <strong> ph = Questions asked of the candidate </ strong> </ p>\n"
+"<p> <strong> P = Total questions </ strong> </ p>\n"
+"<p> <strong> R = Total responses </ strong> </ p>\n"
+"<p> <strong> index_for_candidate = (index_of_premium + 1) * ph * pr - ph ^ 2 </ strong> </ p>\n"
+"<p> Where the reward rate is calculated as follows </ p>\n"
+"<p> <strong> index_premium = P / R </ strong> </ p>\n"
+"<p> If you want to be part of the discussion on the calculation of the index you can <a href=\"https://github.com/intelligentcitizen/votainteligente-portal-electoral/issues/145\" target=\"blank\"> follow the issue # 145 on github </a>\n"
+"</ p>\n"
+""
+
+#: votai_general_theme/templates/elections/soulmate_candidate.html:30
+msgid "calculando"
+msgstr "calculating"
+
+#: votai_general_theme/templates/elections/soulmate_candidate.html:73
+msgid "Atención!"
+msgstr "Attention!"
+
+#: votai_general_theme/templates/elections/soulmate_candidate.html:73
+msgid "Para brindar una mejor respuesta es necesario que respondas todas las preguntas."
+msgstr "To provide a better answer you need to answer all the questions."
+
+#: votai_general_theme/templates/elections/soulmate_candidate.html:96
+msgid "Encontrar mi 1/2 naranja"
+msgstr "Find my 1/2 orange"
+
+#: votai_general_theme/templates/elections/soulmate_explanation.html:18
+msgid "Mi opinión"
+msgstr "My opinion"
+
+#: votai_general_theme/templates/elections/soulmate_explanation.html:21
+msgid "La opinión del candidato"
+msgstr "The opinion of the candidate"
+
+#: votai_general_theme/templates/elections/soulmate_explanation.html:36
+msgid "No tuviste opinión"
+msgstr "You did not have an opinion"
+
+#: votai_general_theme/templates/elections/soulmate_explanation.html:43
+msgid "El candidato no tiene posición."
+msgstr "The candidate has no position."
+
+#: votai_general_theme/templates/elections/soulmate_response.html:24
+msgid "Tu 1/2 naranja política es"
+msgstr "Your 1/2 orange policy is"
+
+#: votai_general_theme/templates/elections/soulmate_response.html:25
+msgid "de afinidad"
+msgstr "of affinity"
+
+#: votai_general_theme/templates/elections/soulmate_response.html:28
+msgid "Declara tu amor publicamente:"
+msgstr "State your love publicly:"
+
+#: votai_general_theme/templates/elections/taken_position.html:21
+msgid "Esta(e) candidata(o) aún no responde"
+msgstr "This candidate is still not responding"
+
+#: votai_general_theme/templates/elections/twitter/follow_the_conversation.html:2
+msgid "oye %(twitter.value|extract_twitter_username)s Sobre la pregunta"
+msgstr "oye% (twitter.value | extract_twitter_username) s About the question"
+
+#: votai_general_theme/templates/elections/twitter/follow_the_conversation.html:2
+msgid "Sigue la conversa"
+msgstr "Follow the conversation"
+
+#: votai_general_theme/templates/elections/twitter/no_candidator_answer.html:2
+msgid "%%20responde%%20votainteligente"
+msgstr "%% 20responds %%20vovitteligente"
+
+#: votai_general_theme/templates/elections/twitter/no_candidator_answer.html:2
+msgid "Pídele su postura"
+msgstr "Ask her for her posture"
+
+#: votai_general_theme/templates/elections/twitter/ranking_twitter.html:2
+msgid "Ventana twitter"
+msgstr "Twitter window"
+
+#: votai_general_theme/templates/encuentro_ciudadano.html:12
+msgid "Realiza un encuentro"
+msgstr "Make a meeting"
+
+#: votai_general_theme/templates/encuentro_ciudadano.html:31
+msgid "En un Encuentro Ciudadano podemos juntarnos con nuestra comunidad, amigos/as o familia y elaborar propuestas en conjunto para que los/as candidatos/as nos escuchen. En este manual encontrarás todo lo necesario para preparar tu Encuentro Ciudadano, el paso a paso para elaborar una propuesta y, por último, formas para que esta sea escuchada. Anímate, descarga la guía que hicimos para ti y ¡a crear propuestas!"
+msgstr "In a Citizen Encounter we can join our community, friends or family and make proposals together so that the candidates hear us. In this manual you will find everything you need to prepare your Citizen Encounter, the step by step to elaborate a proposal and, lastly, ways for it to be heard. Cheer up, download the guide we made for you and create proposals!"
+
+#: votai_general_theme/templates/encuentro_ciudadano.html:37
+msgid "Descarga la guía"
+msgstr "Download guide"
+
+#: votai_general_theme/templates/know_your_candidates.html:11
+msgid "Congresistas comprometidos"
+msgstr "Committed congressmen"
+
+#: votai_general_theme/templates/know_your_candidates.html:12
+msgid "Encuentra aquí los nuevos/as diputados/as y senadores/as y sus compromisos con propuestas ciudadanas de votainteligente.cl"
+msgstr "Find here the new deputies and senators / as and their commitments with citizen proposals of votainteligente.cl"
+
+#: votai_general_theme/templates/login/basic.html:9
+msgid "Entrar"
+msgstr "Log in"
+
+#: votai_general_theme/templates/login/group_register.html:30
+#: votai_general_theme/templates/login/user_register.html:8
+msgid "Regístrame"
+msgstr "Sign me up"
+
+#: votai_general_theme/templates/mails/organization_activation/body.html:5
+#: votai_general_theme/templates/registration/activation_email.html:10
+msgid "\n"
+"<h3>Registro para VotaInteligente.cl</h3>\n"
+"<p>\n"
+"Hola, tú (o alguien que pretende ser tu) ha tratado de registrar una cuenta en\n"
+"<b>%(sitename)s</b><br/>\n"
+"Si no fuiste tú, por favor ignora este mail y tu dirección será removida de nuestros registros.\n"
+"</p>\n"
+"<p>Para activar tu cuenta en votainteligente.cl, por favor haz click en el siguiente link antes de\n"
+"<b>%(expiration_days)s</b> días:<br/>\n"
+"<a href=\"https://%(sitedomain)s%(activation_key_url)s\">https://%(sitedomain)s%(activation_key_url)s</a>\n"
+"</p>\n"
+"\n"
+""
+msgstr "\n"
+"<h3> Registration for VotaInteligente.cl </ h3>\n"
+"<p>\n"
+"Hello, you (or someone pretending to be you) have tried to register an account in\n"
+"<b>% (sitename) s </ b> <br/>\n"
+"If it was not you, please ignore this email and your address will be removed from our records.\n"
+"</ p>\n"
+"<p> To activate your account in votainteligente.cl, please click on the following link before\n"
+"<b>% (expiration_days) s </ b> days: <br/>\n"
+"<a href=\"https://%(sitedomain)s%(activation_key_url)s\"> https: //% (sitedomain) s% (activation_key_url) s </a>\n"
+"</ p>\n"
+"\n"
+""
+
+#: votai_general_theme/templates/mails/organization_activation/body.txt:5
+#: votai_general_theme/templates/registration/activation_email.txt:5
+msgid "\n"
+"Hola, tú (o alguien que pretende ser tu) ha tratado de registrar una cuenta en\n"
+"%(sitename)s.\n"
+"Si no fuiste tú, por favor ignora este mail y tu dirección será removida de nuestros registros.\n"
+"\n"
+"\n"
+"Para activar tu cuenta en votainteligente.cl, por favor haz click en el siguiente link antes de\n"
+"%(expiration_days)s días:\n"
+"https://%(sitename)s%(activation_key_url)s\n"
+""
+msgstr "\n"
+"Hello, you (or someone pretending to be you) have tried to register an account in\n"
+"% (sitename) s.\n"
+"If it was not you, please ignore this email and your address will be removed from our records.\n"
+"\n"
+"\n"
+"To activate your account at votainteligente.cl, please click on the following link before\n"
+"% (expiration_days) s days:\n"
+"https: //% (sitename) s% (activation_key_url) s\n"
+""
+
+#: votai_general_theme/templates/mails/organization_activation/subject.txt:1
+#: votai_general_theme/templates/registration/activation_email_subject.txt:1
+msgid "Activación de tu cuenta en VotaInteligente.cl"
+msgstr "Activation of your account in VotaInteligente.cl"
+
+#: votai_general_theme/templates/material_ciudadano.html:7
+msgid "Infografías"
+msgstr "Infographics"
+
+#: votai_general_theme/templates/material_ciudadano.html:8
+msgid "Revisa datos clave para el día de votación."
+msgstr "Check key data for voting day."
+
+#: votai_general_theme/templates/material_ciudadano.html:88
+msgid "Material Ciudadano"
+msgstr "Citizen Material"
+
+#: votai_general_theme/templates/material_ciudadano.html:89
+msgid "Descarga e imprime los materiales que necesites para generar propuestas, hacer incidencia y/o saber todo lo necesario de esta elección."
+msgstr "Download and print the materials you need to generate proposals, make an impact and / or know everything you need for this choice."
+
+#: votai_general_theme/templates/material_ciudadano.html:99
+msgid "Guía para la creación de propuestas"
+msgstr "Guidelines for proposal creation"
+
+#: votai_general_theme/templates/material_ciudadano.html:101
+msgid "Júntate con tu comunidad, amigos/as o familia a elaborar propuestas en conjunto para que las candidaturas nos escuchen. En este manual encontrarás todo lo necesario para preparar tu Encuentro Ciudadano y el paso a paso para elaborar una propuesta."
+msgstr "Get together with your community, friends or family to make proposals together so that the candidates hear us. In this manual you will find everything you need to prepare your Citizen Encounter and step by step to elaborate a proposal."
+
+#: votai_general_theme/templates/material_ciudadano.html:127
+msgid "Manual de herramientas de activismo"
+msgstr "Activism Toolkit"
+
+#: votai_general_theme/templates/material_ciudadano.html:129
+msgid "Entre más apoyos, tu propuesta es más visible para las candidaturas. Conoce y aprende distintos métodos para darle más difusión a tu propuesta."
+msgstr "The more support you have, the more visible your proposal is for the candidates. Know and learn different methods to give more diffusion to your proposal."
+
+#: votai_general_theme/templates/medianaranja2/base.html:8
+#: votai_general_theme/templates/medianaranja2/comparte_resultado.html:8
+#: votai_general_theme/templates/medianaranja2/paso_default.html:8
+msgid "\n"
+"1/2 Naranja - Paso %(step_number)s\n"
+""
+msgstr "\n"
+"1/2 Orange - Step% (step_number) s\n"
+""
+
+#: votai_general_theme/templates/medianaranja2/base.html:13
+#: votai_general_theme/templates/medianaranja2/base.html:22
+#: votai_general_theme/templates/medianaranja2/comparte_resultado.html:13
+#: votai_general_theme/templates/medianaranja2/comparte_resultado.html:22
+msgid "Media Naranja Política en VotaInteligente"
+msgstr "Average Orange Vote Policy Smart"
+
+#: votai_general_theme/templates/medianaranja2/base.html:17
+#: votai_general_theme/templates/medianaranja2/base.html:23
+#: votai_general_theme/templates/medianaranja2/base.html:37
+msgid "¿Con quién será tu cita en la segunda vuelta?"
+msgstr "Who will your appointment be in the second round?"
+
+#: votai_general_theme/templates/medianaranja2/base.html:38
+msgid "La Media Naranja es un juego de preguntas para ver tu afinidad con las candidaturas que llegaron a la segunda vuelta presidencial de Chile. El contenido se basa en la información de los programas de gobierno de la candidaturas presidenciales, en los compromisos de las candidaturas con propuestas ciudadanas hechos en Vota Inteligente y en declaraciones hechas por los candidatos en medios de comunicación. Como cualquier juego, su resultado podría no coincidir con lo que crees."
+msgstr "The Media Orange is a game of questions to see your affinity with the candidacies that arrived at the second presidential return of Chile. The content is based on the information of the government programs of the presidential candidacies, the candidacies of the candidacies with citizen proposals made in Smart Vote and in statements made by the candidates in the mass media. Like any game, its outcome may not match what you think."
+
+#: votai_general_theme/templates/medianaranja2/comparte_resultado.html:17
+msgid "Mi Media Naranja Política es %(object.object.get_name)s"
+msgstr "My Orange Policy Media is% (object.object.get_name) s"
+
+#: votai_general_theme/templates/medianaranja2/comparte_resultado.html:23
+msgid "Mi Media Naranja Política es %(name)s"
+msgstr "My Half Orange Policy is% (name) s"
+
+#: votai_general_theme/templates/medianaranja2/comparte_resultado.html:31
+msgid "Declaración pública"
+msgstr "Public statement"
+
+#: votai_general_theme/templates/medianaranja2/comparte_resultado.html:34
+msgid "\n"
+"      Tu también puedes tener tu <a href=\"%(medianaranja_index)s\">Media Naranja Política.</a>\n"
+"    "
+msgstr "\n"
+"      You can also have your <a href=\"%(medianaranja_index)s\"> Orange Media Policy </a>.\n"
+"    "
+
+#: votai_general_theme/templates/medianaranja2/paso_0_setup.html:10
+msgid "Para poder decirte con qué candidatura eres más compatible, necesitamos conocer un poco de ti."
+msgstr "In order to tell you which application you are most compatible with, we need to know a little about you."
+
+#: votai_general_theme/templates/medianaranja2/paso_0_setup.html:11
+msgid "Los temas elegidos en este paso corresponden a los que los candidatos muestran posiciones claras en sus programas presidenciales o en declaraciones públicas por parte de ellos."
+msgstr "The topics chosen in this step correspond to those candidates show clear positions in their presidential programs or in public statements by them."
+
+#: votai_general_theme/templates/medianaranja2/paso_0_setup.html:22
+#: votai_general_theme/templates/medianaranja2/paso_1_preguntas_y_respuestas.html:24
+#: votai_general_theme/templates/medianaranja2/paso_2_proposals_list.html:37
+#: votai_general_theme/templates/medianaranja2/paso_default.html:27
+msgid "Paso Siguiente"
+msgstr "Next Step"
+
+#: votai_general_theme/templates/medianaranja2/paso_2_proposals_list.html:10
+msgid "Estas medidas son propuestas que organizaciones, ciudadanos y ciudadanas han hecho en Vota Inteligente. Acá te mostramos una selección con la que se han comprometido ambas candidaturas para ver con cuáles eres más compatible."
+msgstr "These measures are proposals that organizations, citizens and citizens have made in Smart Vote. Here we show you a selection with which both applications have been committed to see which ones you are most compatible with."
+
+#: votai_general_theme/templates/medianaranja2/paso_2_proposals_list.html:16
+msgid "\n"
+"      Si fueras presidenta, presidente o congresista, ¿Cuáles serían tus primeras %(max_proposals_in_12_naranja)s medidas o prioridades?\n"
+"    "
+msgstr "\n"
+"      If you were president, president or congressman, what would be your first% (max_proposals_in_12_naranja) s measures or priorities?\n"
+"    "
+
+#: votai_general_theme/templates/modal_like_proposal.html:19
+msgid "\n"
+"                ¿Deseas apoyar la propuesta <b>%(proposal)s</b>?\n"
+"              "
+msgstr "\n"
+"                Do you want to support the <b>% (proposal) s </ b> proposal?\n"
+"              "
+
+#: votai_general_theme/templates/modal_like_proposal.html:23
+msgid "Al apoyar esta propuesta aceptas que VotaInteligente te notifique vía correo electrónico cuando un candidato decida apoyar esta propuesta."
+msgstr "By supporting this proposal you agree that VotaInteligente notifies you via email when a candidate decides to support this proposal."
+
+#: votai_general_theme/templates/modal_like_proposal.html:32
+msgid "\n"
+"                ¿Quieres enviarle algún mensaje a %(proposer)s?\n"
+"              "
+msgstr "\n"
+"                Do you want to send a message to% (proposer) s?\n"
+"              "
+
+#: votai_general_theme/templates/modal_like_proposal.html:36
+msgid "Nos encanta lo que hacen ..."
+msgstr "We love what they do ..."
+
+#: votai_general_theme/templates/modal_like_proposal.html:41
+#: votai_general_theme/templates/popular_proposal/_likers.html:66
+#: votai_general_theme/templates/popular_proposal/_likers.html:105
+msgid "Apoyar"
+msgstr "To support"
+
+#: votai_general_theme/templates/organizations_logos.html:8
+msgid "Organizaciones presentes"
+msgstr "Organizations present"
+
+#: votai_general_theme/templates/popular_proposal/_apoyo_contador.html:4
+msgid "\n"
+"    <span id='commitments_candidates_%(proposal_id)s' class=\"conteo\">%(commitments_count)s</span> candidatura(s) comprometida(s)\n"
+"  "
+msgstr "\n"
+"    <span id = 'commitments_candidates _% (proposal_id) s' class = \"count\">% (commitments_count) s </ span> committed application (s)\n"
+"  "
+
+#: votai_general_theme/templates/popular_proposal/_apoyo_contador.html:9
+msgid "\n"
+"      <span id='likers_count_%(proposal_id)s' class=\"conteo\">%(likers_count)s</span> apoyo(s) ciudadano(s)</p>\n"
+"    "
+msgstr "\n"
+"      <span id = 'likers_count _% (proposal_id) s' class = \"count\">% (likers_count) s </ span> citizen support </ p>\n"
+"    "
+
+#: votai_general_theme/templates/popular_proposal/_btn_candidate_commitment.html:8
+msgid " ciudadanos apoyan esta propuesta"
+msgstr " citizens support this proposal"
+
+#: votai_general_theme/templates/popular_proposal/_btn_candidate_commitment.html:18
+msgid "Te comprometiste =). Puedes revisar tu compromiso acá"
+msgstr "You compromised =). You can check your commitment here"
+
+#: votai_general_theme/templates/popular_proposal/_btn_candidate_commitment.html:22
+#: votai_general_theme/templates/popular_proposal/_estado_para_candidato.html:17
+msgid "Dijiste que NO a esta propuesta y puedes revisar tu justificación acá"
+msgstr "You said NO to this proposal and you can check your justification here"
+
+#: votai_general_theme/templates/popular_proposal/_btn_candidate_commitment.html:28
+msgid "Me quiero comprometer"
+msgstr "I want to compromise"
+
+#: votai_general_theme/templates/popular_proposal/_estado_para_candidato.html:15
+msgid "¡Ya te comprometiste con esta propuesta! Puedes revisar tu compromiso acá"
+msgstr "You have already committed to this proposal! You can check your commitment here"
+
+#: votai_general_theme/templates/popular_proposal/_estado_para_candidato.html:17
+msgid "La rechazaste"
+msgstr "You rejected her"
+
+#: votai_general_theme/templates/popular_proposal/_filter_form.html:9
+msgid "Mostrar filtros"
+msgstr "Show filters"
+
+#: votai_general_theme/templates/popular_proposal/_filter_form.html:21
+#: votai_general_theme/templates/popular_proposal/_filter_form.html:41
+#: votai_general_theme/templates/search.html:13
+#: votai_general_theme/templates/search/tags_search.html:14
+msgid "Buscar"
+msgstr "Search"
+
+#: votai_general_theme/templates/popular_proposal/_filter_form.html:23
+#: votai_general_theme/templates/popular_proposal/_filter_form.html:43
+msgid "Limpiar búsqueda"
+msgstr "Clear Search"
+
+#: votai_general_theme/templates/popular_proposal/_filter_form.html:26
+msgid "Subscribete a este resultado"
+msgstr "Subscribe to this result"
+
+#: votai_general_theme/templates/popular_proposal/_likers.html:27
+msgid "Comprometido"
+msgstr "Committed"
+
+#: votai_general_theme/templates/popular_proposal/_likers.html:31
+msgid "No Comprometido"
+msgstr "Not committed"
+
+#: votai_general_theme/templates/popular_proposal/_likers.html:37
+#: votai_general_theme/templates/popular_proposal/_likers.html:38
+msgid "Comprometerme"
+msgstr "Commit myself"
+
+#: votai_general_theme/templates/popular_proposal/_likers.html:41
+#: votai_general_theme/templates/popular_proposal/_likers.html:42
+msgid "No comprometerme"
+msgstr "Do not commit"
+
+#: votai_general_theme/templates/popular_proposal/_likers.html:48
+msgid "Contacta a esta organización"
+msgstr "Contact this organization"
+
+#: votai_general_theme/templates/popular_proposal/_likers.html:83
+msgid "Estoy apoyando"
+msgstr "I am supporting"
+
+#: votai_general_theme/templates/popular_proposal/_likers_candidatos.html:11
+msgid "\n"
+"      Candidaturas a %(cargo)s comprometidas con esta propuesta en VotaInteligente\n"
+"    "
+msgstr "\n"
+"      Candidatures to% (charge) s committed with this proposal in Smart Vote\n"
+"    "
+
+#: votai_general_theme/templates/popular_proposal/_lista_propuestas.html:33
+#: votai_general_theme/templates/popular_proposal/_lista_propuestas.html:39
+msgid "\n"
+"        Hay %(proposals_count)s\n"
+"      "
+msgstr "\n"
+"        There are% (proposals_count) s\n"
+"      "
+
+#: votai_general_theme/templates/popular_proposal/_lista_propuestas.html:36
+#: votai_general_theme/templates/popular_proposal/_lista_propuestas.html:41
+msgid "propuestas ciudadanas"
+msgstr "citizen proposals"
+
+#: votai_general_theme/templates/popular_proposal/_lista_propuestas.html:37
+msgid "con tus criterios de búsqueda seleccionados"
+msgstr "with your selected search criteria"
+
+#: votai_general_theme/templates/popular_proposal/_lista_propuestas.html:45
+msgid "Crear nueva propuesta"
+msgstr "Create new proposal"
+
+#: votai_general_theme/templates/popular_proposal/_lista_propuestas.html:55
+#: votai_general_theme/templates/votita/popular_proposal/_lista_propuestas.html:48
+msgid "Recibe notificaciones en tu correo con el resultado de esta búsqueda"
+msgstr "Receive notifications in your email with the result of this search"
+
+#: votai_general_theme/templates/popular_proposal/_lista_propuestas.html:70
+msgid "Aún no se han generado propuestas para esta búsqueda."
+msgstr "No proposals have yet been generated for this search."
+
+#: votai_general_theme/templates/popular_proposal/_popular_proposal_explanation.html:9
+msgid "¡Tú puedes ser parte del cambio y mejorar la calidad de vida en tu comuna!"
+msgstr "You can be part of the change and improve the quality of life in your commune!"
+
+#: votai_general_theme/templates/popular_proposal/_popular_proposal_explanation.html:19
+msgid "\n"
+"Queremos que las personas y organizaciones sociales sean escuchadas.\n"
+"Envíanos tu propuesta para solucionar un problema en tu comuna y nosotros te ayudaremos a que esta sea escuchada por los candidatos a alcaldes y concejales de las Elecciones Municipales 2016.\n"
+"\n"
+"Los vecinos y vecinas son quienes conocen mejor sus necesidades. Es por eso que estamos abiertos a todas sus propuestas. Solo ingresa tu comuna, rellena el formulario, y nosotros te acompañaremos en la elaboración de tu propuesta.\n"
+"\n"
+"#### Nota: Para hacer tu propuesta ciudadana, deberás registrarte en el sitio.\n"
+""
+msgstr "\n"
+"We want people and social organizations to be heard.\n"
+"Send us your proposal to solve a problem in your commune and we will help you to be heard by the candidates for mayors and councilors of the Municipal Elections 2016.\n"
+"\n"
+"Neighbors and neighbors are the ones who know their needs better. That is why we are open to all your proposals. Just enter your commune, fill out the form, and we will accompany you in the elaboration of your proposal.\n"
+"\n"
+"#### Note: To make your proposal, you must register on the site.\n"
+""
+
+#: votai_general_theme/templates/popular_proposal/_popular_proposal_stages_a.html:24
+#: votai_general_theme/templates/popular_proposal/_popular_proposal_stages_b.html:24
+msgid "Kit de activismo"
+msgstr "Activism Kit"
+
+#: votai_general_theme/templates/popular_proposal/_share.html:13
+msgid "  Compartir en Twitter"
+msgstr "  Share on Twitter"
+
+#: votai_general_theme/templates/popular_proposal/_share.html:26
+msgid "Compartir en Facebook"
+msgstr "Share on Facebook"
+
+#: votai_general_theme/templates/popular_proposal/_share.html:37
+msgid "Esta propuesta cuenta con un grupo en Whatsapp para seguir debatiendo."
+msgstr "This proposal has a Whatsapp group to continue debating."
+
+#: votai_general_theme/templates/popular_proposal/_share.html:46
+msgid "Descarga la imagen de esta propuesta"
+msgstr "Download the image of this proposal"
+
+#: votai_general_theme/templates/popular_proposal/_share.html:60
+msgid "Imprime esta propuesta"
+msgstr "Print this proposal"
+
+#: votai_general_theme/templates/popular_proposal/_share.html:73
+msgid "Gracias por apoyar"
+msgstr "Thank you for supporting"
+
+#: votai_general_theme/templates/popular_proposal/_show_proposal_comments.html:3
+msgid "Tus comentarios: \"%(comments)s\", fueron corregidos?"
+msgstr "Your comments: \"% (comments) s\", were they corrected?"
+
+#: votai_general_theme/templates/popular_proposal/_show_proposal_comments_to_user.html:4
+msgid "Comentarios: %(comments)s"
+msgstr "Comments:% (comments) s"
+
+#: votai_general_theme/templates/popular_proposal/ayuranos.html:16
+msgid "\n"
+"    ¡Pidámosle a las candidaturas que se comprometan con %(proposal)s!\n"
+"  "
+msgstr "\n"
+"    Let's ask the candidates to commit to% (proposal) s!\n"
+"  "
+
+#: votai_general_theme/templates/popular_proposal/ayuranos.html:22
+msgid "Presidente"
+msgstr "President"
+
+#: votai_general_theme/templates/popular_proposal/ayuranos.html:33
+#: votai_general_theme/templates/popular_proposal/ayuranos.html:70
+#: votai_general_theme/templates/popular_proposal/ayuranos.html:107
+msgid "Twiteale"
+msgstr "Twiteale"
+
+#: votai_general_theme/templates/popular_proposal/commitment/commit_no.html:15
+#: votai_general_theme/templates/popular_proposal/commitment/commit_yes.html:14
+#: votai_general_theme/templates/popular_proposal/commitment/detail_no.html:15
+msgid "VotaInteligente"
+msgstr "Vote Smart"
+
+#: votai_general_theme/templates/popular_proposal/commitment/commit_no.html:20
+msgid "No lo incluiré"
+msgstr "I will not include it"
+
+#: votai_general_theme/templates/popular_proposal/commitment/commit_no.html:26
+msgid "\n"
+"    Yo <strong>%(candidate_name)s</strong> candidata/o a %(position)s de %(area)s <strong>NO</strong> me comprometo con la propuesta ciudadana <strong>%(proposal)s</strong>.\n"
+"    "
+msgstr "\n"
+"    I <strong>% (candidate_name) s </ strong> candidate (s) of% (area) s <strong> NO </ strong> I commit to the citizen proposal <strong>% (proposal) s < / strong>.\n"
+"    "
+
+#: votai_general_theme/templates/popular_proposal/commitment/commit_no.html:31
+msgid "Por las razones que explicaré a continuación:"
+msgstr "For the reasons I will explain below:"
+
+#: votai_general_theme/templates/popular_proposal/commitment/commit_no.html:42
+msgid "Terminos y Condiciones"
+msgstr "Terms and Conditions"
+
+#: votai_general_theme/templates/popular_proposal/commitment/commit_no.html:49
+msgid "No apoyaré esta propuesta"
+msgstr "I will not support this proposal"
+
+#: votai_general_theme/templates/popular_proposal/commitment/commit_no.html:51
+#: votai_general_theme/templates/popular_proposal/commitment/commit_no.html:53
+msgid "No incluiré esta propuesta en mi programa"
+msgstr "I will not include this proposal in my program"
+
+#: votai_general_theme/templates/popular_proposal/commitment/commit_yes.html:7
+msgid "Firma Compromiso"
+msgstr "Signature Commitment"
+
+#: votai_general_theme/templates/popular_proposal/commitment/commit_yes.html:17
+#: votai_general_theme/templates/popular_proposal/commitment/commit_yes.html:36
+msgid "Firmar compromiso"
+msgstr "Sign commitment"
+
+#: votai_general_theme/templates/popular_proposal/commitment/commit_yes.html:22
+msgid "Firmar Compromiso"
+msgstr "Sign Commitment"
+
+#: votai_general_theme/templates/popular_proposal/commitment/commit_yes.html:23
+msgid "\n"
+"      Yo <strong>%(candidate_name)s</strong>, <strong>%(position)s</strong> me comprometo con la propuesta ciudadana:\n"
+"    "
+msgstr "\n"
+"      I <strong>% (candidate_name) s </ strong>, <strong>% (position) s </ strong> I commit to the citizen proposal:\n"
+"    "
+
+#: votai_general_theme/templates/popular_proposal/commitment/commit_yes.html:32
+msgid "Terminos y Condicione"
+msgstr "Terms and Conditions"
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_no.html:20
+msgid "Resultado"
+msgstr "Result"
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_no.html:39
+msgid "\n"
+"      Lamentablemente <strong>%(candidate_name)s</strong> candidata/o a %(position)s de %(area)s <strong>NO</strong> incluirá <strong>%(proposal)s</strong> en su programa.</p>\n"
+"      "
+msgstr "\n"
+"      Unfortunately <strong>% (candidate_name) s </ strong> candidate / a% (position) s of <strong> NO </ strong> will include <strong>% s </ strong> in your program. </ p>\n"
+"      "
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_no.html:43
+msgid "Sus razones fueron las siguientes:"
+msgstr "His reasons were as follows:"
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_no.html:51
+msgid "\n"
+"        Candidata/o a %(position)s por %(area)s.\n"
+"        "
+msgstr "\n"
+"        Candidate to% (positions) by% (area) s.\n"
+"        "
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_no.html:55
+msgid "\n"
+"        Candidata/o por %(area)s.\n"
+"        "
+msgstr "\n"
+"        Candidate by% (area) s.\n"
+"        "
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_no.html:67
+#: votai_general_theme/templates/popular_proposal/commitment/detail_yes.html:63
+msgid "Hazlo público!"
+msgstr "Make it public!"
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_no.html:68
+msgid "Cuéntales a tus futuros electores el porqué rechazaste esta propuesta! Te queremos honesto y directo frente a los ciudadanos."
+msgstr "Tell your future constituents why you rejected this proposal! We want you honest and direct in front of the citizens."
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_no.html:70
+msgid "He rechazado la propuesta ciudadana: %(proposal)s"
+msgstr "I rejected the citizen proposal:% (proposal) s"
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_no.html:76
+#: votai_general_theme/templates/popular_proposal/commitment/detail_yes.html:72
+msgid "Comunícalo!"
+msgstr "Communicate it!"
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_no.html:77
+msgid "Pregúntale el porqué de su determinación a rechazar esta propuesta ciudadana!"
+msgstr "Ask him the reason of his determination to reject this citizen proposal!"
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_no.html:79
+msgid "Hey %(candidate_name)s porqué rechazaste la propuesta ciudadana: %(proposal)s"
+msgstr "Hey% (candidate_name) s why you rejected the citizen proposal:% (proposal) s"
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_yes.html:9
+msgid "Compromiso final"
+msgstr "Final commitment"
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_yes.html:13
+msgid "En votainteligente.cl revisa el compromiso que he firmado"
+msgstr "In votainteligente.cl reviews the commitment I signed"
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_yes.html:17
+#: votai_general_theme/templates/popular_proposal/commitment/detail_yes.html:23
+msgid "Yo, %(candidate_name)s, me he comprometido con la Propuesta Ciudadana: %(proposal)s"
+msgstr "I,% (candidate_name) s, I have committed to the Citizen Proposal:% (proposal) s"
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_yes.html:22
+msgid "En votainteligente.cl revisa el compromiso que he firmado!"
+msgstr "At votainteligente.cl check the commitment I have signed!"
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_yes.html:37
+#: votai_general_theme/templates/popular_proposal/commitment/detail_yes.html:49
+msgid "Compromiso"
+msgstr "Commitment"
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_yes.html:50
+msgid "\n"
+"    Yo <b>%(candidate_name)s</b> me comprometo con la propuesta ciudadana:\n"
+"    "
+msgstr "\n"
+"    I <b>% (candidate_name) s </ b> I commit to the citizen proposal:\n"
+"    "
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_yes.html:64
+msgid "Cuéntales a tus futuros electores el compromiso que acabas de firmar!"
+msgstr "Tell your future constituents the commitment you just signed!"
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_yes.html:66
+msgid "Me he comprometido con la propuesta ciudadana: %(proposal)s"
+msgstr "I have committed to the citizen proposal:% (proposal) s"
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_yes.html:73
+msgid "Cuéntales a tus amigos sobre este compromiso!"
+msgstr "Tell your friends about this engagement!"
+
+#: votai_general_theme/templates/popular_proposal/commitment/detail_yes.html:75
+msgid "%(candidate_name)s se comprometió con la propuesta ciudadana: %(proposal)s"
+msgstr "% (candidate_name) s committed to the citizen proposal:% (proposal) s"
+
+#: votai_general_theme/templates/popular_proposal/commitment/terms_and_conditions.html:2
+msgid "\n"
+"<p>La Fundación Ciudadano Inteligente es una ONG sin fines de lucro que busca fortalecer las democracias en América Latina.</p>\n"
+"<p>Al comprometerme con la propuesta, yo candidata/o, autorizo a Fundación Ciudadano Inteligente a notificar a todos los adherentes. Además autorizo a que  este compromiso sea utilizado como insumo para los medios de comunicación según se estime conveniente.</p>\n"
+""
+msgstr "\n"
+"<p> The Fundación Ciudadano Inteligente is a non-profit NGO that seeks to strengthen democracies in Latin America. </ p>\n"
+"<p> By committing myself to the proposal, I, the candidate, authorize Fundación Ciudadano Inteligente to notify all adherents. I further authorize this commitment to be used as an input for the media as deemed appropriate. </ P>\n"
+""
+
+#: votai_general_theme/templates/popular_proposal/create.html:30
+msgid "Así se verá tu propuesta:"
+msgstr "This is how your proposal will look:"
+
+#: votai_general_theme/templates/popular_proposal/create.html:36
+msgid "Cancelar"
+msgstr "Cancel"
+
+#: votai_general_theme/templates/popular_proposal/create.html:46
+#: votai_general_theme/templates/popular_proposal/thanks.html:15
+msgid "Creando una propuesta para %(area)s"
+msgstr "Creating a proposal for% (area) s"
+
+#: votai_general_theme/templates/popular_proposal/create.html:61
+msgid "¡Listo!"
+msgstr "Ready!"
+
+#: votai_general_theme/templates/popular_proposal/detail.html:208
+msgid "\n"
+"        <span id='commitments_candidates_%(proposal_id)s' class=\"conteo\">%(commitments_count)s</span> candidatura(s) comprometida(s)\n"
+"      "
+msgstr "\n"
+"        <span id = 'commitments_candidates _% (proposal_id) s' class = \"count\">% (commitments_count) s </ span> committed application (s)\n"
+"      "
+
+#: votai_general_theme/templates/popular_proposal/home.html:6
+msgid "Participa activamente creando y apoyando propuestas ciudadanas generadas por ciudadanos y organizaciones de la sociedad civil"
+msgstr "It participates actively by creating and supporting citizen proposals generated by citizens and civil society organizations"
+
+#: votai_general_theme/templates/popular_proposal/new_subscription.html:4
+msgid "\n"
+"  Graaaaandeee <b>%(organization)s</b>:\n"
+""
+msgstr "\n"
+"  Graaaaandeee <b>% (organization) s </ b>:\n"
+""
+
+#: votai_general_theme/templates/popular_proposal/new_subscription.html:7
+msgid "Estás apadrinando una propuesta, esto tiene algunas implicancias"
+msgstr "You are sponsoring a proposal, this has some implications"
+
+#: votai_general_theme/templates/popular_proposal/new_subscription.html:9
+msgid "\n"
+"¿Deseas apoyar la propuesta <b>%(proposal)s</b>?\n"
+"<p>Al apoyar esta propuesta aceptas que VotaInteligente te notifique vía correo electrónico cuando un candidato decida apoyar esta propuesta.</p>\n"
+""
+msgstr "\n"
+"Do you want to support the <b>% (proposal) s </ b> proposal?\n"
+"<p> In support of this proposal you agree that VotaInteligente notifies you via email when a candidate decides to support this proposal. </ p>\n"
+""
+
+#: votai_general_theme/templates/popular_proposal/new_subscription.html:19
+msgid "Sí, quiero apoyar"
+msgstr "Yes, I want to support"
+
+#: votai_general_theme/templates/popular_proposal/plantillas/candidate_commitment.html:8
+msgid "\n"
+"      A incluirla en mi programa y cumplirla antes de <strong>%(when)s</strong>.\n"
+"  "
+msgstr "\n"
+"      To include it in my program and meet it before <strong>% (when) s </ strong>.\n"
+"  "
+
+#: votai_general_theme/templates/popular_proposal/plantillas/candidate_commitment.html:13
+msgid "Entiendo que esta propuesta ciudadana surge como respuesta a la siguiente problemática:"
+msgstr "I understand that this citizen proposal arises in response to the following problem:"
+
+#: votai_general_theme/templates/popular_proposal/plantillas/candidate_commitment.html:17
+msgid "Además, entiendo que el problema estará solucionado cuando:"
+msgstr "In addition, I understand that the problem will be solved when:"
+
+#: votai_general_theme/templates/popular_proposal/plantillas/candidate_commitment.html:23
+msgid "\n"
+"  Los términos en los que me comprometo son: %(terminos)s\n"
+""
+msgstr "\n"
+"  The terms I am committed to are:% (terms)\n"
+""
+
+#: votai_general_theme/templates/popular_proposal/plantillas/carta_candidato.html:7
+#: votai_general_theme/templates/popular_proposal/plantillas/carta_candidato.html:11
+msgid "\n"
+"    %(user)s ha creado una propuesta para mejorar %(area)s en Vota Inteligente 2017.\n"
+"  "
+msgstr "\n"
+"    % (user) s has created a proposal to improve% (area) s in Smart Vote 2017.\n"
+"  "
+
+#: votai_general_theme/templates/popular_proposal/plantillas/carta_candidato.html:17
+#: votai_general_theme/templates/popular_proposal/plantillas/detalle_propuesta.html:7
+msgid "El problema que se quiere solucionar es:"
+msgstr "The problem you want to solve is:"
+
+#: votai_general_theme/templates/popular_proposal/plantillas/carta_candidato.html:21
+#: votai_general_theme/templates/popular_proposal/plantillas/detalle_propuesta.html:10
+msgid "La causa de este problema es:"
+msgstr "The cause of this problem is:"
+
+#: votai_general_theme/templates/popular_proposal/plantillas/carta_candidato.html:25
+#: votai_general_theme/templates/popular_proposal/plantillas/detalle_propuesta.html:13
+msgid "La propuesta para solucionar este problema es:"
+msgstr "The proposal to solve this problem is:"
+
+#: votai_general_theme/templates/popular_proposal/plantillas/carta_candidato.html:29
+msgid "El plazo de implementación de esta propuesta es de"
+msgstr "The deadline for implementing this proposal is"
+
+#: votai_general_theme/templates/popular_proposal/plantillas/carta_candidato.html:33
+msgid "Revísala, si te gustó ¡compártela y apóyala!<br>Así todos/as tendremos voz en las elecciones de este año!"
+msgstr "Check it out, if you liked it, share it and support it! <br> We will all have a voice in this year's elections!"
+
+#: votai_general_theme/templates/popular_proposal/plantillas/detalle_propuesta.html:16
+msgid "En un plazo de"
+msgstr "Within a"
+
+#: votai_general_theme/templates/popular_proposal/plantillas/detalle_propuesta.html:20
+msgid "Si te gustó ¡compártela y apóyala! Así todos/as tendremos voz en las elecciones de este año"
+msgstr "If you liked it, share it and support it! So we will all have a voice in this year's elections"
+
+#: votai_general_theme/templates/popular_proposal/popular_proposal_card.html:19
+msgid "\n"
+"      Propuesta nº%(proposal_id)s\n"
+"    "
+msgstr "\n"
+"      Proposal #% (proposal_id) s\n"
+"    "
+
+#: votai_general_theme/templates/popular_proposal/popular_proposal_card.html:39
+msgid "Propuesta de "
+msgstr "Proposal of"
+
+#: votai_general_theme/templates/popular_proposal/popular_proposal_card.html:69
+msgid "Leer más"
+msgstr "Read more"
+
+#: votai_general_theme/templates/popular_proposal/popular_proposal_card.html:75
+msgid "Ver Compromiso"
+msgstr "See Commitment"
+
+#: votai_general_theme/templates/popular_proposal/steps/base_steps.html:4
+msgid "Para tener en cuenta"
+msgstr "To take into account"
+
+#: votai_general_theme/templates/popular_proposal/steps/causes_help.html:3
+msgid "Ejemplo:"
+msgstr "Example:"
+
+#: votai_general_theme/templates/popular_proposal/steps/causes_help.html:3
+msgid "Las causas de la contaminación ambiental en la ciudad son:"
+msgstr "The causes of environmental pollution in the city are:"
+
+#: votai_general_theme/templates/popular_proposal/steps/causes_help.html:4
+msgid "1. Excesivo uso de autos"
+msgstr "1. Excessive use of cars"
+
+#: votai_general_theme/templates/popular_proposal/steps/causes_help.html:4
+msgid "2. El uso de estufas a leña"
+msgstr "2. The use of wood stoves"
+
+#: votai_general_theme/templates/popular_proposal/steps/causes_help.html:4
+msgid "3. Poca educación ambiental"
+msgstr "3. Poor environmental education"
+
+#: votai_general_theme/templates/popular_proposal/steps/causes_help.html:4
+msgid "4. Uso excesivo de bolsas plásticas"
+msgstr "4. Excessive use of plastic bags"
+
+#: votai_general_theme/templates/popular_proposal/steps/causes_help.html:11
+msgid "Causa elegida para nuestra propuesta"
+msgstr "Cause chosen for our proposal"
+
+#: votai_general_theme/templates/popular_proposal/steps/causes_help.html:11
+msgid "El uso excesivo de bolsas plásticas en los supermercados."
+msgstr "Excessive use of plastic bags in supermarkets."
+
+#: votai_general_theme/templates/popular_proposal/steps/select_area.html:2
+msgid "Encuentra tu comuna"
+msgstr "Find your commune"
+
+#: votai_general_theme/templates/popular_proposal/steps/tips_paso1.html:5
+msgid "¿Cómo se define un problema?"
+msgstr "How do you define a problem?"
+
+#: votai_general_theme/templates/popular_proposal/steps/tips_paso1.html:7
+msgid "Un problema es una situación que, de ser solucionada, mejoraría considerablemente la vida de las personas que habitan en Chile o al menos parte de ellas."
+msgstr "A problem is a situation that, if solved, would greatly improve the lives of people living in Chile or at least part of them."
+
+#: votai_general_theme/templates/popular_proposal/steps/tips_paso1.html:8
+msgid "Recuerda que hay más posibilidades de que un candidato o una candidata tomen en cuenta tu propuesta si el problema afecta a muchas personas."
+msgstr "Remember that there is more chance that a candidate or candidate will consider your proposal if the problem affects many people."
+
+#: votai_general_theme/templates/popular_proposal/steps/tips_paso1.html:9
+msgid "Elige la categoría que mejor represente al problema descrito para que la gente interesada en el tema la pueda encontrar."
+msgstr "Choose the category that best represents the problem described so that people interested in the topic can find it."
+
+#: votai_general_theme/templates/popular_proposal/steps/tips_paso2.html:5
+msgid "¿Cómo se define una causa?"
+msgstr "How is a cause defined?"
+
+#: votai_general_theme/templates/popular_proposal/steps/tips_paso2.html:7
+msgid "Una causa es la razón por la que existe el problema que queremos combatir."
+msgstr "A cause is the reason why there is the problem that we want to fight."
+
+#: votai_general_theme/templates/popular_proposal/steps/tips_paso2.html:8
+msgid "Aunque tu problema pueda tener más de una causa, elige sólo una (la que se pueda abordar a través de tu propuesta)."
+msgstr "Although your problem may have more than one cause, choose only one (which can be addressed through your proposal)."
+
+#: votai_general_theme/templates/popular_proposal/steps/tips_paso2.html:9
+msgid "Si quieres enfrentar otra causa del mismo problema, puedes añadir otra propuesta."
+msgstr "If you want to face another cause of the same problem, you can add another proposal."
+
+#: votai_general_theme/templates/popular_proposal/steps/tips_paso3.html:7
+msgid "Desarrollando nuestra propuesta"
+msgstr "Developing our proposal"
+
+#: votai_general_theme/templates/popular_proposal/steps/tips_paso3.html:9
+msgid "Ahora llegó el momento de proponer cómo podemos solucionar el problema."
+msgstr "Now is the time to propose how we can solve the problem."
+
+#: votai_general_theme/templates/popular_proposal/steps/tips_paso3.html:10
+msgid "Mientras más detallada sea tu propuesta, más apoyo podrá generar de parte de la ciudadanía, organizaciones, y candidaturas."
+msgstr "The more detailed your proposal, the more support it can generate from citizens, organizations, and candidates."
+
+#: votai_general_theme/templates/popular_proposal/steps/tips_paso3.html:11
+msgid "No olvides establecer un plazo de tiempo para que el candidato o la candidata cumplan con la propuesta si se comprometen."
+msgstr "Do not forget to set a deadline for the candidate to comply with the proposal if they commit."
+
+#: votai_general_theme/templates/popular_proposal/steps/tips_paso4.html:4
+msgid "Felicitaciones!!! Ya estás casi listo/a con tu propuesta ciudadana. Lo único que queda por hacer es ponerle un título y aceptar los Términos y Condiciones. Después de esto ya puedes compartirla por redes sociales, mostrársela a tus vecinos/as y exigirle a los/as candidatos/as que te escuchen!"
+msgstr "Congratulations !!! You are almost ready with your citizen proposal. The only thing left to do is to put a title and accept the Terms and Conditions. After this you can share it on social networks, show it to your neighbors and demand candidates to listen to you!"
+
+#: votai_general_theme/templates/popular_proposal/thanks.html:20
+msgid "¡Gracias por tu propuesta!"
+msgstr "Thank you for your proposal!"
+
+#: votai_general_theme/templates/popular_proposal/thanks.html:22
+msgid "Por favor, espera a nuestros Ciudadanos Inteligentes para que la evalúen."
+msgstr "Please wait for our Smart Citizens to evaluate it."
+
+#: votai_general_theme/templates/popular_proposal/thanks.html:30
+msgid "Crea otra propuesta para %(area)s"
+msgstr "Create another proposal for% (area) s"
+
+#: votai_general_theme/templates/popular_proposal/thanks.html:32
+#: votai_general_theme/templates/popular_proposal/wizard/done.html:48
+msgid "Ir a mi perfil ciudadano"
+msgstr "Go to my citizen profile"
+
+#: votai_general_theme/templates/popular_proposal/thanks.html:36
+msgid "Revisa otras propuestas en %(area)s"
+msgstr "Check out other proposals in% (area) s"
+
+#: votai_general_theme/templates/popular_proposal/update.html:9
+msgid "Agrega más información sobre tu propuesta titulada \"<i><a href=\"%(url)s\">%(popular_proposal)s</a></i>\""
+msgstr "Add more information about your proposal titled \"<i> <a href=\"%(url)s\">% (popular_proposal) </a> </a> </ i>"
+
+#: votai_general_theme/templates/popular_proposal/update.html:10
+msgid "Todas las respuestas son opcionales."
+msgstr "All answers are optional."
+
+#: votai_general_theme/templates/popular_proposal/update.html:20
+msgid "Información extra"
+msgstr "Extra information"
+
+#: votai_general_theme/templates/popular_proposal/update.html:21
+msgid "Esta información nos permitirá tener un mejor entendimiento de cómo y dónde se formulan las propuestas."
+msgstr "This information will allow us to have a better understanding of how and where proposals are formulated."
+
+#: votai_general_theme/templates/popular_proposal/wizard/_previous_buttons.html:7
+msgid "Volver al inicio"
+msgstr "Back to top"
+
+#: votai_general_theme/templates/popular_proposal/wizard/_previous_buttons.html:10
+msgid "Volver al paso "
+msgstr "Back to the step"
+
+#: votai_general_theme/templates/popular_proposal/wizard/done.html:12
+msgid "Propuesta publicada"
+msgstr "Published proposal"
+
+#: votai_general_theme/templates/popular_proposal/wizard/done.html:20
+msgid "Propuesta para %(area)s"
+msgstr "Proposal for% (area) s"
+
+#: votai_general_theme/templates/popular_proposal/wizard/done.html:25
+msgid "\n"
+"            Publicamos tu propuesta con título \"<i>%(popular_proposal)s</i>\" ¡muchas gracias!\n"
+"          "
+msgstr "\n"
+"            We publish your proposal with title \"<i>% (popular_proposal) s </ i>\" thank you!\n"
+"          "
+
+#: votai_general_theme/templates/popular_proposal/wizard/done.html:32
+msgid "Difunde tu propuesta para conseguir más apoyos"
+msgstr "Spread your proposal to get more support"
+
+#: votai_general_theme/templates/popular_proposal/wizard/done.html:36
+msgid "Por favor, espera que el equipo de Ciudadano Inteligente la evalúe para que sea enviada a los candidatos."
+msgstr "Please wait for the Smart Citizen team to evaluate it to be sent to the candidates."
+
+#: votai_general_theme/templates/popular_proposal/wizard/done.html:40
+msgid "Puedes agregar información a tu propuesta, revisarla o crear otra"
+msgstr "You can add information to your proposal, review it or create another"
+
+#: votai_general_theme/templates/popular_proposal/wizard/done.html:41
+msgid "Agregar más información a tu propuesta"
+msgstr "Add more information to your proposal"
+
+#: votai_general_theme/templates/popular_proposal/wizard/done.html:42
+msgid "Revisa tu propuesta"
+msgstr "Review your proposal"
+
+#: votai_general_theme/templates/popular_proposal/wizard/done.html:43
+msgid "Crea otra propuesta"
+msgstr "Create another proposal"
+
+#: votai_general_theme/templates/popular_proposal/wizard/form_step.html:16
+#: votai_general_theme/templates/popular_proposal/wizard/paso4.html:15
+#: votai_general_theme/templates/popular_proposal/wizard/paso4.html:24
+#: votai_general_theme/templates/popular_proposal/wizard/paso4.html:38
+msgid "Ejemplo"
+msgstr "Example"
+
+#: votai_general_theme/templates/popular_proposal/wizard/paso4.html:31
+msgid "Resumen cortísimo"
+msgstr "Short summary"
+
+#: votai_general_theme/templates/popular_proposal/wizard/paso5.html:54
+msgid "Información adicional sobre tu propuesta"
+msgstr "Additional information about your proposal"
+
+#: votai_general_theme/templates/popular_proposal/wizard/paso5.html:79
+msgid "Enviar propuesta"
+msgstr "Submit proposal"
+
+#: votai_general_theme/templates/popular_proposal/wizard/select_area.html:15
+msgid "\n"
+"      Creando una propuesta para %(area)s\n"
+"    "
+msgstr "\n"
+"      Creating a proposal for% (area) s\n"
+"    "
+
+#: votai_general_theme/templates/popular_proposal/wizard/select_area.html:22
+msgid "\n"
+"          Paso %(current_step)s de %(total_steps)s\n"
+"        "
+msgstr "\n"
+"          Step% (current_step) s of% (total_steps) s\n"
+"        "
+
+#: votai_general_theme/templates/preguntales/confirmation.html:11
+msgid "\n"
+"    <h1>¡Confirmamos tu mensaje!</h1>\n"
+"    <h2>¡Pronto moderaremos tu pregunta ciudadana!</h2>\n"
+"\n"
+"    "
+msgstr "\n"
+"    <h1> We confirm your message! </ h1>\n"
+"    <h2> Soon we will moderate your citizen question! </ h2>\n"
+"\n"
+"    "
+
+#: votai_general_theme/templates/proposal_subscriptions/confirm_unsubscribe.html:6
+msgid "Estas a punto de desuscribirte a la búsqueda de "
+msgstr "You are about to unsubscribe to the search for"
+
+#: votai_general_theme/templates/proposal_subscriptions/confirm_unsubscribe.html:8
+msgid "\n"
+"    cada %(how_often)s?\n"
+"  "
+msgstr "\n"
+"    every% (how_often) s?\n"
+"  "
+
+#: votai_general_theme/templates/proposal_subscriptions/confirm_unsubscribe.html:12
+msgid "Desuscribir"
+msgstr "Unsubscribe"
+
+#: votai_general_theme/templates/proposal_subscriptions/list.html:9
+msgid "Backend Ciudadano"
+msgstr "Backend Citizen"
+
+#: votai_general_theme/templates/proposal_subscriptions/list.html:9
+msgid "Alertas de búsqueda"
+msgstr "Search Alerts"
+
+#: votai_general_theme/templates/proposal_subscriptions/list.html:25
+msgid "Tus suscripciones a búsquedas"
+msgstr "Your subscriptions to searches"
+
+#: votai_general_theme/templates/proposal_subscriptions/list.html:30
+msgid "Qué buscaste"
+msgstr "What did you look for"
+
+#: votai_general_theme/templates/proposal_subscriptions/list.html:31
+msgid "Frecuencia"
+msgstr "Frequency"
+
+#: votai_general_theme/templates/proposal_subscriptions/list.html:44
+msgid "Desuscribirse"
+msgstr "To unsubscribe"
+
+#: votai_general_theme/templates/proposal_subscriptions/subscribe_to_search.html:8
+msgid "Al subscribirte al resultado de una búsqueda se te enviará un email cuando se cree una propuesta que tenga relación a la búsqueda de tu interés."
+msgstr "By subscribing to the result of a search you will be sent an email when you create a proposal that relates to the search of your interest."
+
+#: votai_general_theme/templates/proposal_subscriptions/subscribe_to_search.html:11
+msgid "Subscribir"
+msgstr "Subscribe"
+
+#: votai_general_theme/templates/proposal_subscriptions/subscribe_to_search.html:31
+msgid "Gracias te hemos suscrito exitosamente."
+msgstr "Thank you, we have successfully subscribed."
+
+#: votai_general_theme/templates/que_es.html:9
+msgid "¿Qué es Vota Inteligente?"
+msgstr "What is Smart Vote?"
+
+#: votai_general_theme/templates/que_es.html:17
+msgid "\n"
+"\t\t\tVota Inteligente es un plataforma desarrollada por <b><a href=\"//www.ciudadanointeligente.org/\" target=\"_blank\" onclick=\"ga('send','event','que-es-ciudadanoi','click')\">Ciudadano Inteligente</a></b> que busca cambiar la forma en que se viven las elecciones en Chile para que esta vez sean los ciudadanos y ciudadanas los que hagan sus propuestas a las candidaturas.</p><p>En la plataforma cualquier persona, organización, colectivo o grupo de personas pueden generar sus propias propuestas que aborden los temas que más les preocupan o inquietan. Desde Ciudadano Inteligente le haremos llegar las propuestas que se levanten a todas las candidaturas presidenciales y parlamentarias y éstas se podrán comprometer en la misma plataforma a llevarlas a cabo y cumplirlas en caso de resultar electas.</p><p>Una vez subidas en la página, cualquier persona puede conocer y apoyar las propuestas a través de un “APOYAR <i class=\"fa fa-heart\" aria-hidden=\"true\"></i>”. Además, las organizaciones no gubernamentales que participen de la plataforma pueden patrocinar propuestas de otras personas u organizaciones.</p><p>Desde Vota Inteligente promovemos que las propuestas sean construidas colectivamente. Para eso hemos creado una Metodología de Encuentro para que la creación de nuestras propuestas sea un espacio de convivencia y diálogo entre personas, amigos, vecinos y comunidades. Juntas de vecinos, clubes deportivos, sindicatos, gremios, colectivos y organizaciones de todo tipo están invitados a hacer sus propuestas y a organizar encuentros para debatir en conjunto acerca del país que la ciudadanía sueña. (<b><a href=\"%(encuentro_ciudadano_url)s\" onclick=\"ga('send','event','que-es-encuentro','click')\">Acá</a></b> puedes encontrar información de cómo hacer tu propio encuentro).</p><p>Las elecciones son el momento en que se define el futuro de nuestro país y es fundamental que toda la ciudadanía tenga un voz y opinión en este proceso. El voto no es la única forma de participar, desde Vota Inteligente puedes ir más allá creando tu propuesta, compartirla con tus amistades y apoyar las que más te gusten para que juntos hagamos sentir, más fuerte que nunca, la voz de la ciudadanía en estas elecciones que son nuestras. <b>#LaElecciónEsNuestra</b>\n"
+"\t\t"
+msgstr "\n"
+"Vote Smart is a platform developed by <b> <a href = \"// www.ciudadanointeligente.org/\" target = \"_ blank\" onclick = \"ga ('send', 'event', 'que-es-ciudadanoi', 'click') \"> Smart Citizen </a> </ b> that seeks to change the way in which the elections are being held in Chile so that this time it is the citizens who make their proposals for the candidacies. > <p> On the platform, any person, organization, group or group of people can generate their own proposals that address the issues that most concern or disturb them. From Intelligent Citizen we will send you the proposals that are raised to all the presidential and parliamentary candidacies and these can be committed in the same platform to carry them out and fulfill them in case of being elected. </ P> <p> Once uploaded in the page, anyone can know and support the proposals through a \"SUPPORT <i class =\" fa fa-heart \"aria-hidden =\" true \"> </ i>\". In addition, non-governmental organizations participating in the platform can sponsor proposals from other people or organizations. </ P> <p> From Smart Vote we promote that proposals are built collectively. For that we have created a Methodology of Encounter so that the creation of our proposals is a space of coexistence and dialogue between people, friends, neighbors and communities. Neighbors' associations, sports clubs, unions, guilds, groups and organizations of all kinds are invited to make their proposals and organize meetings to discuss together about the country that the citizens dream. (<b> <a href=\"%(incuentro_ciudadano_url)s\" onclick=\"ga('send','event','that-is-inclusion','click')\"> Here </a> </ b > You can find information on how to make your own meeting. </ p> <p> Elections are the moment in which the future of our country is defined and it is fundamental that all citizens have a voice and opinion in this process. Voting is not the only way to participate, from Smart Vota you can go further by creating your proposal, share it with your friends and support the ones you like so that together we make the voice of the citizens in these voices feel stronger than ever. choices that are ours. <b> # TheSelection is our </ b>\n"
+""
+
+#: votai_general_theme/templates/registration/activate.html:4
+#: votai_general_theme/templates/registration/activation_complete.html:4
+msgid "Activation complete"
+msgstr "Activation complete"
+
+#: votai_general_theme/templates/registration/activate.html:4
+msgid "Activation problem"
+msgstr "Activation problem"
+
+#: votai_general_theme/templates/registration/activate.html:8
+msgid "\n"
+"Gracias %(account)s, tu activación está completa!\n"
+"Ahora puedes <a href='%(auth_login_url)s'>entrar</a> usando tu usuario y password.\n"
+""
+msgstr "\n"
+"Thanks% (account) s, your activation is complete!\n"
+"You can now <a href='%(auth_login_url)s'> log in </a> using your username and password.\n"
+""
+
+#: votai_general_theme/templates/registration/activate.html:13
+msgid "Uhh!!Ohhh!! &ndash; parece que tu clave de activación es inválida. Por favor revisa la url nuevamente."
+msgstr "Uhh !! Ohhh !! & ndash; it looks like your activation key is invalid. Please check the url again."
+
+#: votai_general_theme/templates/registration/activation_complete.html:6
+msgid "Bienvenida/o! Ahora ya activamos tu cuenta!"
+msgstr "Welcome! Now we activate your account!"
+
+#: votai_general_theme/templates/registration/activation_complete.html:7
+msgid "Estamos redirigiendote para que edites tu perfil"
+msgstr "We are redirecting you to edit your profile"
+
+#: votai_general_theme/templates/registration/activation_complete.html:9
+msgid "Si no funciona, puedes hacer click en <a href=\"%(url)s\">En este link.</a>."
+msgstr "If it does not work, you can click on <a href=\"%(url)s\"> in this link. </a>."
+
+#: votai_general_theme/templates/registration/login.html:22
+msgid "Ingresa"
+msgstr "Enter"
+
+#: votai_general_theme/templates/registration/login.html:26
+msgid "Para apoyar una propuesta debes estar registrado."
+msgstr "To support a proposal you must be registered."
+
+#: votai_general_theme/templates/registration/logout.html:4
+msgid "Logged out"
+msgstr "Logged out"
+
+#: votai_general_theme/templates/registration/password_change.html:6
+msgid "- Backend Ciudadano - Contraseña"
+msgstr "- Backend Citizen - Password"
+
+#: votai_general_theme/templates/registration/password_change.html:16
+msgid "Cambia mi contraseña"
+msgstr "Change my password"
+
+#: votai_general_theme/templates/registration/password_change_done.html:4
+#: votai_general_theme/templates/registration/password_change_done_.html:4
+msgid "Password changed"
+msgstr "Password changed"
+
+#: votai_general_theme/templates/registration/password_change_done.html:6
+msgid "Password successfully changed!"
+msgstr "Password successfully changed!"
+
+#: votai_general_theme/templates/registration/password_change_done_.html:6
+msgid "¡Listo! Cambiamos tu Password."
+msgstr "Ready! We change your Password."
+
+#: votai_general_theme/templates/registration/password_change_form.html:4
+#: votai_general_theme/templates/registration/password_change_form.html:8
+msgid "Change password"
+msgstr "Change password"
+
+#: votai_general_theme/templates/registration/password_reset_complete.html:4
+msgid "Password reset complete"
+msgstr "Password reset complete"
+
+#: votai_general_theme/templates/registration/password_reset_complete.html:8
+msgid "¡Listo! Ya cambiamos tu password ahora puedes entrar a tu cuenta."
+msgstr "Ready! We have already changed your password now you can login to your account."
+
+#: votai_general_theme/templates/registration/password_reset_confirm.html:4
+msgid "Confirm password reset"
+msgstr "Confirm password reset"
+
+#: votai_general_theme/templates/registration/password_reset_confirm.html:8
+msgid "Ingresa tu nuevo password para continuar:"
+msgstr "Enter your new password to continue:"
+
+#: votai_general_theme/templates/registration/password_reset_confirm.html:13
+msgid "Cambiar password"
+msgstr "Change password"
+
+#: votai_general_theme/templates/registration/password_reset_confirm.html:17
+msgid "Ya cambiaste tu password, solicita uno nuevo si necesitas."
+msgstr "You have already changed your password, request a new one if you need to."
+
+#: votai_general_theme/templates/registration/password_reset_done.html:4
+msgid "Password reset"
+msgstr "Password reset"
+
+#: votai_general_theme/templates/registration/password_reset_done.html:7
+msgid "Te enviamos un mail con un link para que puedas reiniciar tu password.\n"
+"Por favor, revisa tu email y haz click en el link para continuar."
+msgstr "We send you an email with a link so you can reset your password.\n"
+"Please check your email and click on the link to continue."
+
+#: votai_general_theme/templates/registration/password_reset_email.html:2
+msgid "Greetings"
+msgstr "Greetings"
+
+#: votai_general_theme/templates/registration/password_reset_email.html:4
+msgid "You are receiving this email because you (or someone pretending to be you)\n"
+"requested that your password be reset on the %(domain)s site.  If you do not \n"
+"wish to reset your password, please ignore this message.\n"
+"\n"
+"To reset your password, please click the following link, or copy and paste it\n"
+"into your web browser:"
+msgstr "You are receiving this email because you (or someone pretending to be you)\n"
+"requested that your password be reset on the% (domain) s site. If you do not\n"
+"wish to reset your password, please ignore this message.\n"
+"\n"
+"To reset your password, please click the following link, or copy and paste it\n"
+"into your web browser:"
+
+#: votai_general_theme/templates/registration/password_reset_email.html:13
+msgid "\n"
+"Your username, in case you've forgotten: %(username)s\n"
+"\n"
+"Best regards,\n"
+"%(site_name)s Management\n"
+""
+msgstr "\n"
+"Your username, in case you've forgotten:% (username) s\n"
+"\n"
+"Best Regards,\n"
+"% (site_name) s Management\n"
+""
+
+#: votai_general_theme/templates/registration/password_reset_email.txt:4
+msgid "Estás recibiendo este mail por que pediste que reiniciaramos tu password para tu cuenta en VotaInteligente.cl."
+msgstr "You are receiving this mail because you asked us to restart your password for your account at VotaInteligente.cl."
+
+#: votai_general_theme/templates/registration/password_reset_email.txt:6
+msgid "Por favor ingresa en la siguiente URL y escribe un password nuevo."
+msgstr "Please enter the following URL and enter a new password."
+
+#: votai_general_theme/templates/registration/password_reset_email.txt:11
+msgid "Tu usuario en caso que lo olvidaras: "
+msgstr "Your username in case you forget it:"
+
+#: votai_general_theme/templates/registration/password_reset_email.txt:13
+msgid "Muchas gracias por utilizar VotaInteligente.cl"
+msgstr "Thank you very much for using VotaInteligente.cl"
+
+#: votai_general_theme/templates/registration/password_reset_form.html:4
+msgid "Reset password"
+msgstr "Reset password"
+
+#: votai_general_theme/templates/registration/password_reset_form.html:6
+msgid "¿Se te olvidó el password? completa el formulario de abajo y reinicia tu clave."
+msgstr "Did you forget your password? complete the form below and restart your password."
+
+#: votai_general_theme/templates/registration/password_reset_form.html:9
+msgid "Envíame un mail para reiniciar mi clave"
+msgstr "Send me an email to reset my password"
+
+#: votai_general_theme/templates/registration/registration_complete.html:4
+msgid "Mail de activación enviado"
+msgstr "Activation mail sent"
+
+#: votai_general_theme/templates/registration/registration_complete.html:6
+msgid "Te hemos enviado un mail de activación.\n"
+"Por favor revisa tu mail y haz click en el link que contiene para la activación."
+msgstr "We sent you an activation email.\n"
+"Please check your mail and click on the link that contains the activation."
+
+#: votai_general_theme/templates/registration/registration_form.html:4
+msgid "Register for an account"
+msgstr "Register for an account"
+
+#: votai_general_theme/templates/registration/registration_form.html:10
+msgid "Envíame un mail de activación"
+msgstr "Send me an activation mail"
+
+#: votai_general_theme/templates/search.html:5
+#: votai_general_theme/templates/search/tags_search.html:6
+msgid "Busqueda"
+msgstr "Search"
+
+#: votai_general_theme/templates/search.html:19
+#: votai_general_theme/templates/search/tags_search.html:21
+msgid "Elecciones"
+msgstr "Elections"
+
+#: votai_general_theme/templates/search.html:26
+#: votai_general_theme/templates/search/tags_search.html:28
+msgid "No encontré resultados"
+msgstr "I did not find any results"
+
+#: votai_general_theme/templates/twitter_poking_button.html:1
+msgid "Tuitea %(texto)s"
+msgstr "Tuitea% (text) s"
+
+#: votai_general_theme/templates/votita/base.html:11
+msgid "Levanta la mano"
+msgstr "Raise your hand"
+
+#: votai_general_theme/templates/votita/lista_propuesta.html:12
+msgid "Propuestas 2017"
+msgstr "2017 Proposals"
+
+#: votai_general_theme/templates/votita/popular_proposal/_lista_propuestas.html:60
+msgid "\n"
+"        <p class=\"bg-info text-center\">\n"
+"          Aún no se han generado propuestas para esta búsqueda.\n"
+"        </p>\n"
+"      "
+msgstr "\n"
+"        <p class = \"bg-info text-center\">\n"
+"          No proposals have yet been generated for this search.\n"
+"        </ p>\n"
+"      "
+
+#: votainteligente/urls.py:35
+msgid "^preguntales/"
+msgstr "ask them"
+
+#: votainteligente/urls.py:36
+msgid "^propuestas/"
+msgstr "^ proposals /"
+
+#: votainteligente/urls.py:37
+msgid "^pages/"
+msgstr "^ pages /"
+
+#: votainteligente/urls.py:41
+msgid "^perfil_ciudadano/"
+msgstr "^ profile_citizen /"
+
+#: votainteligente/urls.py:43
+msgid "^media_naranja/"
+msgstr "^ media_naranja /"
+
+#: votainteligente/urls.py:44
+msgid "^organizacion/"
+msgstr "^ organization /"
+
+#: votainteligente/urls.py:45
+msgid "^candidatos/"
+msgstr "^ candidates /"
+
+#: votainteligente/urls.py:49
+msgid "^ayudanos/$"
+msgstr "help us"
+
+#: votainteligente/urls.py:52
+msgid "^encuentro_ciudadano/$"
+msgstr "^ meeting_citizen / $"
+
+#: votainteligente/urls.py:55
+msgid "^que_es/$"
+msgstr "what are you"
+
+#: votainteligente/urls.py:58
+msgid "^material_ciudadano/$"
+msgstr "^ material_ciudadano / $"
+
+#: votita/models.py:81
+msgid "Encuentro"
+msgstr "Meeting"
+
+#: votita/models.py:82
+msgid "Encuentros"
+msgstr "Meetings"
+
+#: votita/models.py:166
+msgid "Medida"
+msgstr "Measure"
+
+#: votita/models.py:167
+msgid "Medidas"
+msgstr "Measures"
+

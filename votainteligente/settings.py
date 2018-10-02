@@ -488,7 +488,7 @@ if TESTING:
 else:
     try:
         from local_settings import *
-    except ImportError, e:
+    except ImportError as e:
         pass
 
 if THEME:
